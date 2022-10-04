@@ -1,14 +1,20 @@
 .banner-principal-decorativo
   &-1
-    animation: float1 3.5s ease-in-out infinite alternate
+    animation: float1 2.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 75%
+    right: 22%
   &-2
-    animation: float1 2.8s ease-in-out infinite alternate
+    animation: float1 4.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 70%
+    right: 60%
+  &-3
+    animation: float2 4.8s ease-in-out infinite alternate
+    position: absolute
+    top: 62%
+    right: 73%
+
 
 
 @keyframes float1
@@ -17,3 +23,14 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: translateX(20px)
+
+  100%
+    transform: translateX(0px)
+
+.titulo-principal.color-acento-contenido .titulo-principal__numero span
+  color: #ffffff
+ 
