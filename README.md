@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.3.0**
+# **CF16 - 626500 Guianza turística**
 
-## **Enlace GitHubPages**
+## **Conectando al turista con la experiencia**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://ecored-sena.github.io/CF16_626500_GUIANZA_TURISTICA/](https://ecored-sena.github.io/CF16_626500_GUIANZA_TURISTICA/)
 
 #
 
