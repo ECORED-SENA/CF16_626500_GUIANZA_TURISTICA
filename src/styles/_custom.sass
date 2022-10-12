@@ -34,3 +34,56 @@
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: #ffffff
  
+///Tema 1
+
+.fondo1
+  background-color: #406834 !important
+
+.otrobloque .bloque-texto-g__texto 
+  position: relative
+  width: 65%
+  right: 34%
+  background-color: rgba(255, 255, 255, 0.95)
+  @media (max-width: 992px)
+    position: relative
+    width: 100%
+    height: 50%
+    left: 0
+    background-color: rgba(255, 255, 255, 0.95)
+
+.otrobloque .bloque-texto-g__img
+  width: 50%
+  position: absolute
+  top: -23%
+  left: 50%
+  background-position: top
+  background-size: 100% 108%
+  @media (max-width: 992px)
+    width: 100%
+    height: 70% !important
+    position: absolute
+    top: -14%
+    left: 0
+    bottom: 0
+    background-position: top
+    background-size: 100% 108%
+
+.bg_grad-01
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0 -3rem 
+    top: -1em
+    left: 0px
+    width: calc( 100% + 6rem)
+    height: 100%
+    background-image: url("../assets/curso/temas/fondo1.jpg")
+    background-repeat: no-repeat
+
+.colorsub
+  background-color: #406834
+  border-radius: 20px
+
