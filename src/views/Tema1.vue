@@ -191,7 +191,7 @@
                 img(src='@/assets/curso/tema1/img6.png' alt='AvatarTop')
     p.mb-4 Se aconseja que cuando el guía haga un viaje largo, use de vez en cuando las herramientas impersonales, para evitar la fatiga mental propia y la de los usuarios; por ejemplo, una canción tradicional puede generar una emoción agradable y memorable en el turista al entrar en un nuevo departamento, sin necesidad de que el guía intervenga al explicar cada detalle. <b> <FONT COLOR="#FD6300"> A continuación, se relacionan ejemplos de tecnología para aliviar la carga del guía de turismo: </FONT> </b>
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-0
       .col-lg-4.col-md-10.col-12
         figure.mb-4
           img(src='@/assets/curso/tema1/fig2.svg' alt='AvatarTop')
@@ -201,6 +201,7 @@
       .col-lg-4.col-md-10.col-12
         figure.mb-4
           img(src='@/assets/curso/tema1/fig4.svg' alt='AvatarTop')
+    figcaption.mb-4 Nota. Tomada de Banrepcultural.org.
     p.mb-4 Esta experiencia le permite al usuario sumergirse en una atmósfera similar a la de una ofrenda realizada por los grupos indígenas, donde el protagonista era el simbolismo del oro; también es una experiencia que no contempla la mediación directa del guía, por lo tanto, es una herramienta impersonal en el servicio guiado. 
 
     .row.align-items-center.mb-4
@@ -292,7 +293,7 @@
       .col-lg-8
         p.mb-4 Se calcula que las personas recuerdan aproximadamente el 15% de lo que prueban, por ello, es uno de los estímulos más poderosos para mostrar la gastronomía de un lugar. No obstante, la relación entre algunos sabores y sensaciones determinadas suele ser también materia de conocimiento popular, como la unión directa entre el chocolate y el placer. Estas relaciones conocidas pueden ser usadas en otro tipo de productos, por ejemplo: explicar la compleja organización militar y solar de las abejas puede ser monótona, pero si inicia con una degustación de los distintos tipos de miel según las flores o las características del contexto de la colmena, se convierte en comentarios simpáticos acerca del arduo trabajo de las otras para el disfrute de nuestro paladar. El guía habrá logrado un momento gratificante, en que la audiencia reconocerá que solo un enjambre de abejas bien organizado es capaz de producir tan agradable manjar (Gallego, 2000).
         .cajon.color-secundario(style='background-color: #B7CEAC').p-5
-          p.mb-0 Para el uso de herramientas de estimulación al gusto, debe asegurarse de contar con las condiciones sanitarias ideales para la degustación. Se recomienda que el guía de turismo tenga conocimiento de BPM o que se asesore de un experto o la realice en un sitio especializado, para garantizar el bienestar del usuario 
+          p.mb-0 Para el uso de herramientas de estimulación al gusto, debe asegurarse de contar con las condiciones sanitarias ideales para la degustación. Se recomienda que el guía de turismo tenga conocimiento de BPM o que se asesore de un experto o la realice en un sitio especializado, para garantizar el bienestar del usuario.
     p.mb-4 De la siguiente manera, se comparte cómo los sentidos se logran involucrar en esas acciones que se presentan entre el guía y el turista:
 
     .row.mb-4
@@ -333,7 +334,8 @@
               p.mb-4 Por otro lado, también se puede usar la incomodidad sonora para el aprendizaje. Se genera, por ejemplo, al acercar el turista al oscuro y estridente mundo de los murciélagos, dominado por mitos y supersticiones; es necesaria una narración animada, soportada en imágenes o recursos audiovisuales sobre el sistema de orientación de estos animales, que no tiene nada qué envidiarle a los actuales GPS (Sistemas de Posicionamiento Global); suscitará respeto y curiosidad por la especie, desplazando el rechazo y el miedo hacia ella (Gallego, 2000).
               p.mb-4 En el ámbito cultural, las bibliotecas sonoras, el uso de fragmentos de podcasts o grabaciones de otrora facilitan la evocación y son la herramienta ideal para recorridos históricos y culturales. En Colombia, entidades como el Banco de la República, la Biblioteca Nacional y RTVC Sistema de Medios Públicos son custodios del patrimonio sonoro. 
               .cajon.color-primario(style='background-color: #FFDF88').p-4
-                p.mb-0 Cabe resaltar que los diferentes estilos de música pueden influir en los niveles de presión arterial, aumentándola o disminuyéndola, al igual que en los niveles de energía y en el proceso de secreción hormonal. La música clásica provoca estados de ánimos positivos, la música con pocas alteraciones de ritmo y tono genera estados de calma y placer, y la música con altas alteraciones de ritmo, tono y volumen provoca sensaciones de rabia o tristeza. (Jiménez-Marín et al., 2019). Sin embargo, es preciso aclarar que la experiencia musical está influenciada por la personalidad del oyente y también se debe adecuar a la situación. Por otro lado, en las actividades de observación se suele usar playback para facilitar la observación de determinas especies; evítelo en lo posible, a menos que usted tenga formación especializada. Al igual que lo humanos, la fauna se altera gravemente con los estímulos sonoros.
+                p.mb-4 Cabe resaltar que los diferentes estilos de música pueden influir en los niveles de presión arterial, aumentándola o disminuyéndola, al igual que en los niveles de energía y en el proceso de secreción hormonal. La música clásica provoca estados de ánimos positivos, la música con pocas alteraciones de ritmo y tono genera estados de calma y placer, y la música con altas alteraciones de ritmo, tono y volumen provoca sensaciones de rabia o tristeza. (Jiménez-Marín et al., 2019). Sin embargo, es preciso aclarar que la experiencia musical está influenciada por la personalidad del oyente y también se debe adecuar a la situación. 
+                p.mb-0 Por otro lado, en las actividades de observación se suele usar playback para facilitar la observación de determinas especies; evítelo en lo posible, a menos que usted tenga formación especializada. Al igual que lo humanos, la fauna se altera gravemente con los estímulos sonoros.
     .row.align-items-center.mb-4
       .col-lg-1
         figure
@@ -408,7 +410,7 @@
           img(src='@/assets/curso/tema1/avatar5.svg' alt='AvatarTop')
           .tarjeta.colorclaro
             .p-4
-              h2.text-center Greatness isn’t the height
+              h2.text-center Espacio personal
               p.mb-0.text-center Cuando es roto por otra persona, genera incomodidad, sensación de amenza o tension, a menos que una situación lo justifique. 
               p.text-center La postura corporal constituye una barrera territorial para impedir las violaciones de estos espacios. 
     figcaption.text-center.mb-4 Nota. Tomado de Vilches y Sarmiento (2016).
@@ -592,13 +594,13 @@
         ul.lista-ul--color
           li
             i.fas.fa-paper-plane 
-            | <b>Los caracterizadores vocales:</b> risa, llanto, suspiro, bostezo, estornudo, ronquido.
+            p <b>Los caracterizadores vocales:</b> risa, llanto, suspiro, bostezo, estornudo, ronquido.
           li
             i.fas.fa-paper-plane 
-            | <b>Las cualidades de la voz:</b> registro, control de la altura, control del ritmo, el tempo, el control de la articulación, la resonancia
+            p <b>Las cualidades de la voz:</b> registro, control de la altura, control del ritmo, el tempo, el control de la articulación, la resonancia
           li
             i.fas.fa-paper-plane 
-            | <b>Los cualificadores vocales:</b> intensidad de la voz (fuerte o suave), la altura (aguda o grave) y la extensión (arrastrar las palabras o hablar extremadamente cortado).
+            p <b>Los cualificadores vocales:</b> intensidad de la voz (fuerte o suave), la altura (aguda o grave) y la extensión (arrastrar las palabras o hablar extremadamente cortado).
 
 </template>
 

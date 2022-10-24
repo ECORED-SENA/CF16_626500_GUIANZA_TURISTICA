@@ -13,16 +13,14 @@
     
     figure.mb-5
       .video
-        iframe(width="942" height="530" src="https://www.youtube.com/embed/OkpCtbomsKo" title="Guionaje de grupos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    
+        iframe(width="942" height="530" src="https://www.youtube.com/embed/xAQ5ybjnM3E" title="Conectando al turista con la experiencia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
 </template>
 
 <script>
 export default {
   name: 'Introduccion',
-  data: () => ({
-    // variables de vue
-  }),
+  data: () => ({}),
 }
 </script>
 
