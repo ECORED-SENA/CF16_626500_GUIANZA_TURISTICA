@@ -44,13 +44,13 @@ export default {
             icono: 'far fa-file-alt',
             numero: '1.1',
             titulo: 'Herramientas de comunicación interpretativa',
-            hash: '#t_1_1',
+            hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
             titulo: 'Comunicación no verbal en el guionaje ',
-            hash: '#t_1_2',
+            hash: 't_1_2',
           },
         ],
       },
@@ -426,7 +426,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Carlos Mauricio Gomez Delgado',
+        nombre: '',
         cargo: 'Soporte front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
