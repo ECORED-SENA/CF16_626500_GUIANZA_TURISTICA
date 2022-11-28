@@ -9,16 +9,16 @@
       h1  Comunicación verbal
 
     .row.align-items-center.mb-4
-      .col-lg-8
+      .col-lg-8(data-aos="fade-right")
         p.mb-4 Es un proceso que permite establecer relaciones y vínculos sociales con las personas con quienes usted se relaciona en la sociedad, tiene la finalidad de socializar los puntos de vista que usted construye durante el desarrollo de la vida y de aprender de los referentes que otras personas construyen en su desarrollo. La comunicación verbal está mediada por el lenguaje y es vista como una conducta que permite a las personas relacionarse con el mundo que les rodea, y en ese proceso de relación, los seres humanos construyen los cimientos comportamentales de las sociedades y diseñan los contextos en los que habitan.
         .cajon.color-primario(style='background-color: #FFE6A1').p-4.mb-4
           p.mb-0 De esta manera, el habla permite reconocer, a través de su entonación, los diferentes estados de ánimo, lo que permite leer sentimientos y emociones que están relacionados con la personalidad, aquellos mismos que no siempre tienen que expresarse a través de la palabra, sino en el tono usado para la comunicación. 
         p.mb-0 Observe el siguiente video, donde se destaca la importancia de la voz y su manejo en la comunicación verbal:
-      .col-lg-4
+      .col-lg-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/vec1.svg', alt='Texto que describa la imagen')
     
-    figure.mb-5
+    figure.mb-5(data-aos="fade")
       .video
         iframe(width="942" height="530" src="https://www.youtube.com/embed/nnWDGmn62YI" title="La importancia de la voz y su manejo en la comunicación verbal para el guía turístico" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
@@ -30,27 +30,27 @@
           )
           .bloque-texto-g1__texto.p-4
             p Es importante tener en cuenta que la respiración consta de una parte activa (la inspiración) y otra pasiva (la espiración). Mediante esta última función, la espiración, se produce el habla. De allí la importancia de la educación respiratoria. La vibración de los bordes cordales aumenta por la presión del aire (presión subglótica), generando en esta zona el sonido laríngeo puro y/o fundamental de la voz, que luego es amplificado por las cavidades de resonancia (garganta, huesos, paladar, partes blandas, etc.) hasta salir. Las cuerdas vocales necesitan estar lubricadas con una capa delgada de mucosidad para poder vibrar eficientemente. (Gómez, s. f., p. 5)
-    .row.mb-5
+    .row.mb-5(data-aos="fade")
       .col-lg-5.col-md-8.col-10
         .row 
           .col-10
             .tarjeta.color-secundario.p-2
               h3.mb-0.text-center.text-white El aparato fonador y sus cuidados
-    p.mb-4 Las emisiones del habla son producidas por el aparato fonatorio, compuesto por el sistema respiratorio, la laringe, las cuerdas vocales y la cavidad bucal.
+    p.mb-4(data-aos="fade-right") Las emisiones del habla son producidas por el aparato fonatorio, compuesto por el sistema respiratorio, la laringe, las cuerdas vocales y la cavidad bucal.
 
     .row.justify-content-center.mb-4
-      .col-lg-8
+      .col-lg-8(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido
           h5 Figura 7
           span Aparato fonador
-      .col-lg-6
+      .col-lg-6(data-aos="fade-down")
         figure
           img(src='@/assets/curso/tema2/fig1.png', alt='Texto que describa la imagen')
         figcaption.mb-4 Nota. Castañeda (s. f.).
-    p.mb-4 La emisión de sonidos se produce por el funcionamiento de varios elementos que están engranados y sincronizados y logran producir la voz, estos son:
+    p.mb-4(data-aos="fade-right") La emisión de sonidos se produce por el funcionamiento de varios elementos que están engranados y sincronizados y logran producir la voz, estos son:
 
     .row.mb-4
-      .col-lg-12
+      .col-lg-12(data-aos="fade")
         .tabla-a.color-acento-contenido
           table
             caption Nota. Castañeda, (s. f.).
@@ -80,9 +80,9 @@
                 td.text-center Articuladores 
                 td.text-center Están conformados por los labios, los dientes, paladar duro, velo del paladar y mandíbula.
                 td.text-center Los órganos articuladores van a moldear la columna sonora, transformándola en sonidos y articulaciones del habla. 
-    p.mb-4 Para aportar a la formación profesional del guía, se enuncian las acciones para el cuidado de la voz:
+    p.mb-4(data-aos="fade-right") Para aportar a la formación profesional del guía, se enuncian las acciones para el cuidado de la voz:
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-8
+      .col-lg-8(data-aos="fade-right")
         TabsA.color-acento-contenido.mb-3      
           .tarjeta.clr-verde.p-5(titulo="Alimentación")
             h4 Alimentación
@@ -127,12 +127,12 @@
               li
                 i.fas.fa-circle
                 | Mantener un buen estado físico, emocional y social.
-      .col-lg-4.col-md-8.col-8
+      .col-lg-4.col-md-8.col-8(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema2/1.png', alt='Texto que describa la imagen')         
-    p.mb-4 La base de la comunicación verbal es la voz, las técnicas del manejo son de indiscutible importancia en la profesión del guía, que debe practicar con ejercicios para afinarla y usarla como herramienta de apoyo discursivo. <b> <FONT COLOR="#FD6300"> A continuación, algunas actividades técnicas a tener en cuenta para fortalecerla: </FONT> </b>
+    p.mb-4(data-aos="fade-right") La base de la comunicación verbal es la voz, las técnicas del manejo son de indiscutible importancia en la profesión del guía, que debe practicar con ejercicios para afinarla y usarla como herramienta de apoyo discursivo. <b> <FONT COLOR="#FD6300"> A continuación, algunas actividades técnicas a tener en cuenta para fortalecerla: </FONT> </b>
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade-up")
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-amarilla")
         .row(titulo="Respiratoria")
           .col-lg-1
@@ -187,9 +187,9 @@
           .col-lg-4
             figure
               img(src='@/assets/curso/tema2/img6.png', alt='Texto que describa la imagen')
-    p.mb-4 Para educar la voz como aliada de la profesión, se debe trabajar en hacerla clara, es decir, perceptible. Se espera que en el discurso todas y cada una de las palabras se escuchen, inclusive cuando la voz tiene tono bajo y de menor intensidad. Para hacerlo, el hablante debe articular perfectamente todos los sonidos, con las diferencias naturales que existen entre ellos, para evitar confusiones del mensaje. La comprensión de las características de la voz ayuda a identificar cómo usarla y manejarla optimizándola, vea:
+    p.mb-4(data-aos="fade-right") Para educar la voz como aliada de la profesión, se debe trabajar en hacerla clara, es decir, perceptible. Se espera que en el discurso todas y cada una de las palabras se escuchen, inclusive cuando la voz tiene tono bajo y de menor intensidad. Para hacerlo, el hablante debe articular perfectamente todos los sonidos, con las diferencias naturales que existen entre ellos, para evitar confusiones del mensaje. La comprensión de las características de la voz ayuda a identificar cómo usarla y manejarla optimizándola, vea:
 
-    .slyderB_bg_01.px-4.py-3.mb-5
+    .slyderB_bg_01.px-4.py-3.mb-5(data-aos="fade")
       SlyderA(tipo="b")
         .row.justify-content-center.my-lg-4
           .col-lg-4.mb-4.mb-lg-0.pt-4.pt-0.position-relative
@@ -237,10 +237,10 @@
               img(src='@/assets/curso/tema2/img11.png')
 
     .bg_grad-05
-      p.mb-4 El guía de turismo debe acostumbrar a impostar su voz, se trata de usar, adecuadamente, los órganos de la voz, proyectando el sonido de forma agradable, sin denotar duda o temblor evidenciando miedo al público, que sea poderosa y agradable al mismo tiempo y que hasta la última fila del auditorio escuche, inclusive sin equipos de ampliación de sonido. <b> <FONT COLOR="#FD6300"> La respiración y sacar el máximo provecho de la caja de resonancia harán que resuene la voz dentro de la cara, proyectando firmeza y seguridad; algunas de estas acciones son: </FONT> </b>
+      p.mb-4(data-aos="fade-right") El guía de turismo debe acostumbrar a impostar su voz, se trata de usar, adecuadamente, los órganos de la voz, proyectando el sonido de forma agradable, sin denotar duda o temblor evidenciando miedo al público, que sea poderosa y agradable al mismo tiempo y que hasta la última fila del auditorio escuche, inclusive sin equipos de ampliación de sonido. <b> <FONT COLOR="#FD6300"> La respiración y sacar el máximo provecho de la caja de resonancia harán que resuene la voz dentro de la cara, proyectando firmeza y seguridad; algunas de estas acciones son: </FONT> </b>
       br
       .row.align-items-center.mb-2
-        .col-lg-7
+        .col-lg-7(data-aos="fade-right")
           .row.align-items-center.mb-2
             .col-lg-2.col-md-2.col-2
               figure
@@ -268,7 +268,7 @@
             .col-lg-10.col-md-10.col-10
               h4.mb-4 Los sonidos espontáneos y su valor
               p.mb-2 bocarriba, flexionar el tronco con un impulso y levantar brazos y piernas, todo a la vez. Dejar salir un sonido espontáneo: es el movimiento el que lleva al sonido. Percibir cómo la zona abdominal (que puede deformarse, pero no comprimirse) influye en la voz.
-        .col-lg-5
+        .col-lg-5(data-aos="fade-left")
           figure
             img(src='@/assets/curso/tema2/2.png')
       .row 

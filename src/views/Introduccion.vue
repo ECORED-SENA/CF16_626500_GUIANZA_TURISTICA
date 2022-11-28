@@ -9,9 +9,9 @@
           i.fas.fa-info
       h1 Introducción
 
-    p.mb-5 Para dar inicio al componente formativo, observe el siguiente video, el cual relaciona los elementos a tener en cuenta en el desarrollo de los conceptos:
+    p.mb-5(data-aos="fade-right") Para dar inicio al componente formativo, observe el siguiente video, el cual relaciona los elementos a tener en cuenta en el desarrollo de los conceptos:
     
-    figure.mb-5
+    figure.mb-5(data-aos="fade")
       .video
         iframe(width="942" height="530" src="https://www.youtube.com/embed/xAQ5ybjnM3E" title="Conectando al turista con la experiencia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 

@@ -9,7 +9,7 @@
       h1 Implementación de la experiencia
     br
     br
-    .row.mb-4
+    .row.mb-4(data-aos="fade")
       .col-lg-12
         .bloque-texto-g.fondo1.p-3.p-sm-4.p-md-4.my-4.otrobloque
           .bloque-texto-g__img(
@@ -20,10 +20,10 @@
 
     .bg_grad-03
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-4.col-md-5.col-6
+        .col-lg-4.col-md-5.col-6(data-aos="fade-right")
           figure
             img(src="@/assets/curso/tema1/img2.png", alt="alt")
-        .col-lg-8
+        .col-lg-8(data-aos="fade-left")
           .row
             .col-lg-12.mb-4
               .bloque-texto-b.color-primario.p-4
@@ -45,15 +45,15 @@
     br
     .bg_grad-01
       .row.justify-content-center.mb-5
-        .col-lg-5
+        .col-lg-5(data-aos="fade-down")
           .colorsub.p-2
             h3.text-center.text-white.mb-0 Áreas de los sentidos en la corteza cerebral
       .row.justify-content-center.mb-5
-        .col-lg-10
+        .col-lg-10(data-aos="fade")
           figure
             img(src="@/assets/curso/tema1/vec1.svg", alt="alt")
       .row.mb-4
-        .col-lg-12
+        .col-lg-12(data-aos="fade-down")
           .cajon.color-secundario(style='background-color: #B7CEAC').p-4
             .row.justify-content-center
               .col-lg-1.col-md-3.col-6
@@ -63,14 +63,14 @@
                 p.mb-0 En el momento que el guía presta el servicio para acompañar al turista, diferentes estímulos se reciben como información, donde se tiene en cuenta el ambiente externo e interno de cada persona, es decir, la información que se incorpora a partir del cerebro desde lo perceptivo, donde se tiene la capacidad de analizar e integrar significados a partir de los cinco sentidos, elementos que se desarrollan en las funcionales cerebrales.
 
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-8
+        .col-lg-8(data-aos="fade-right")
           .bloque-texto-b.color-primario.p-4.mb-4
             .bloque-texto-b__texto
               i.fas.fa-quote-left
               h4.mb-0 El servicio turístico enfocado en la experiencia debe estimular todos los sentidos del turista, convirtiendo los espacios visitados en entornos de aprendizaje multisensoriales para incrementar las capacidades de aprendizaje de los turistas, En efecto, cuando en un ambiente se combina un estímulo del tacto con uno visual, el aprendizaje mejora en un treinta por ciento, lo cual es calificado por los turistas como experiencias innovadoras y placenteras, gracias a la liberación de dopamina que interviene en la formación de la memoria. Por lo tanto, es de resaltar que los turistas aprenden más de las palabras y de las imágenes presentadas simultáneamente a través de una narración animada que de un gran volumen de información suministrada de manera plana por el guía o un material impreso lleno de datos sobre el destino. (Izaguirre, 2018).
               i.fas.fa-quote-right
           p.mb-4 De lo anterior, se comprende la importancia de una atención de calidad desde el inicio de la compra hasta la fidelización del cliente a través del servicio de excelencia.
-        .col-lg-4.col-md-6.col-8
+        .col-lg-4.col-md-6.col-8(data-aos="fade-left")
           figure
             img(src="@/assets/curso/tema1/img3.png", alt="alt")
     Separador
@@ -79,7 +79,7 @@
     .titulo-segundo.color-acento-contenido
       .h2 1.1. Herramientas de comunicación interpretativa
 
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-1.col-md-2.col-5
         figure
           img(src="@/assets/curso/tema1/icon2.svg", alt="alt")
@@ -87,21 +87,21 @@
         p.mb-0 El guía permite que el turista reconozca el patrimonio cultural y natural de los destinos que visita, donde se requiere que potencialice aspectos referidos a la comunicación interpretativa, aquella que debe despertarse desde la curiosidad, para que desde allí se estimule el interés y la atención que el público pueda presentar frente a los hechos y acontecimientos narrados en el discurso del guía. 
 
     .row.justify-content-center.mb-4
-      .col-lg-8
+      .col-lg-8(data-aos="fade-right")
         p.mb-4 Las herramientas TIC o Tecnologías de la Información y las Comunicaciones son parte fundamental de las acciones de servicio competitivas y también hacen parte de la experiencia, facilitan su comprensión y usabilidad, mejorando indiscutiblemente la experiencia turística; la promoción, la difusión y puesta en valor de los entornos patrimoniales hacen parte de los beneficios.
         .cajon.color-primario(style='background-color: #FFD667').p-4.mb-4
           p.mb-0 El Internet es la herramienta de democratización del acceso de información sobre los destinos; por otro lado, al tener los usuarios acceso a equipos de mayor calidad a precios accesibles en sus viajes, sumado a las experiencias vividas pospandemia, se configura la mezcla que influye en que el turista use dispositivos como su celular para vivir la experiencia turística (Palomo y Martínez, 2018). 
         p.mb-4 En otras palabras, al portafolio de habilidades del guía se adiciona la necesidad de manejar tecnología que permita estar al tanto de las peticiones del usuario (aplicaciones para dispositivos móviles) e interactuar con el mismo (por correo electrónico, chats), así como, al mismo tiempo, usar las TIC en la mediación interpretativa, para presentar propuestas e, inclusive, materializarlas.
-      .col-lg-4.col-md-6.col-8
+      .col-lg-4.col-md-6.col-8(data-aos="fade-left")
         figure
           img(src="@/assets/curso/tema1/img4.png", alt="alt")
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4.col-md-6.col-8
+      .col-lg-4.col-md-6.col-8(data-aos="fade-right")
         figure.mb-4
           img(src="@/assets/curso/tema1/img5.png", alt="alt")
       
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p.mb-4 El uso de las herramientas TIC no asegura la comunicación eficiente, como tampoco asegura la experiencia, esta inicia desde que el usuario se interesa en el servicio; se pueden presentar en ese momento barreras como la frustración por un sistema de comunicación complejo, lentitud en las conexiones o por una respuesta lenta frente a inquietudes sobre detalles del servicio. Otro aspecto que incide es la baja empatía con el usuario, que se traduce en la dificultad para entender los requerimientos en el servicio; si desea evitarlo, analice las herramientas disponibles para paliar la incomunicación y, al mismo tiempo, integre el uso de herramientas alternativas para comunicar características del servicio con anterioridad y durante el mismo, y facilitar la interpretación, algunas de ellas son: podcasts, narraciones audiovisuales, escritas y orales, grabaciones, imágenes, objetos ilustrativos, pizarras, el uso de equipos electrónicos o dispositivos técnicos como altavoces, sistema de guía de viaje inalámbrico, láser para señalar, entre otros. 
         .linea.mb-0
         .bloque-texto-b.color-primario.p-4.mb-4
@@ -110,12 +110,12 @@
             h4.mb-0 Los expertos recomiendan una continua experimentación y prueba antes de la utilización de las TIC; si el problema persiste, revise si son los documentos o las herramientas las que no se adaptan al usuario promedio, proceda según unas pautas detalladas y prefijadas con el contratante. (Vilches y Sarmiento, 2016).
             i.fas.fa-quote-right
 
-    .cajon.color-secundario(style='background-color: #E8E8E8').p-4.mb-4
+    .cajon.color-secundario(style='background-color: #E8E8E8').p-4.mb-4(data-aos="fade-down")
       p.mb-0 Las herramientas y equipo disponibles cambian, se modernizan continuamente, por lo tanto, el guía, de forma permanente, debe centrarse no solo en planear e implementar el uso de una herramienta confiable para su público, sino en la intencionalidad de la interpretación, que, además de brindar una información, instruya al turista. 
 
-    p.mb-4 Para poder entregar mensajes de calidad, independientemente de la herramienta que se utilice, se espera tener en cuenta las siguientes especificaciones:
+    p.mb-4(data-aos="fade-right") Para poder entregar mensajes de calidad, independientemente de la herramienta que se utilice, se espera tener en cuenta las siguientes especificaciones:
 
-    .slyderB_bg_01.px-4.py-3.mb-5
+    .slyderB_bg_01.px-4.py-3.mb-5(data-aos="fade")
       SlyderA(tipo="b")
         .row.justify-content-center.my-lg-4
           .col-lg-4.mb-4.mb-lg-0.pt-5.pt-0.position-relative
@@ -152,9 +152,9 @@
           .col-lg-8.col-md-8.col-10
             figure
               img(src='@/assets/curso/tema1/slyder4.png')
-    p.mb-4 Para seleccionar la herramienta idónea, se analiza el propósito de la comunicación; se presentan dos tipos: personales e impersonales, explicados a continuación:
+    p.mb-4(data-aos="fade-right") Para seleccionar la herramienta idónea, se analiza el propósito de la comunicación; se presentan dos tipos: personales e impersonales, explicados a continuación:
 
-    .tarjeta--container.row.mb-5
+    .tarjeta--container.row.mb-5(data-aos="fade")
       .col-md.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
           .col-4
@@ -172,18 +172,18 @@
           
         h3.text-center Herramientas impersonales 
         p.text-center Se diseñan para que no sea necesaria la intervención del guía, se utilizan en los destinos con un alto volumen de visitas, una extensión amplia, como es el caso de los parques nacionales,  o con limitada capacidad de carga, como los observatorios de aves, para facilitar al visitante la compresión del atractivo sin la mediación del guía. Por ejemplo, en el caso del uso de la imagen, esta se ubica en un lugar visible y es acompañada de un texto. 
-    p.mb-4 Ahora, vea un poco la explicación al respecto a través del siguiente esquema informativo:
+    p.mb-4(data-aos="fade-right") Ahora, vea un poco la explicación al respecto a través del siguiente esquema informativo:
 
-    .titulo-sexto.color-acento-contenido
+    .titulo-sexto.color-acento-contenido(data-aos="fade-right")
       h5 Figura 1
       span Tipos de herramientas para la comunicación interpretativa
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade")
       .col-lg-12
         figure
           img(src='@/assets/curso/tema1/grafica.svg', alt='Texto que describa la imagen')
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade")
       .col-lg-12.position-relative
         .crd.crd--avatarHorizontal
           .row.align-items-center
@@ -194,9 +194,9 @@
             .col-lg-6
               figure
                 img(src='@/assets/curso/tema1/img6.png' alt='AvatarTop')
-    p.mb-4 Se aconseja que cuando el guía haga un viaje largo, use de vez en cuando las herramientas impersonales, para evitar la fatiga mental propia y la de los usuarios; por ejemplo, una canción tradicional puede generar una emoción agradable y memorable en el turista al entrar en un nuevo departamento, sin necesidad de que el guía intervenga al explicar cada detalle. <b> <FONT COLOR="#FD6300"> A continuación, se relacionan ejemplos de tecnología para aliviar la carga del guía de turismo: </FONT> </b>
+    p.mb-4(data-aos="fade-right") Se aconseja que cuando el guía haga un viaje largo, use de vez en cuando las herramientas impersonales, para evitar la fatiga mental propia y la de los usuarios; por ejemplo, una canción tradicional puede generar una emoción agradable y memorable en el turista al entrar en un nuevo departamento, sin necesidad de que el guía intervenga al explicar cada detalle. <b> <FONT COLOR="#FD6300"> A continuación, se relacionan ejemplos de tecnología para aliviar la carga del guía de turismo: </FONT> </b>
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade")
       .col-lg-4.col-md-10.col-10
         img(src='@/assets/curso/tema1/fig2.png' alt='AvatarTop')
         .tarjeta.colortras.px-4.py-2
@@ -215,13 +215,13 @@
           .text-center
             h4.mb-2 Figura 4
             p.mb-0 Sala de ofrendas del Museo del Oro de Bogotá
-    p.mb-4 Esta experiencia le permite al usuario sumergirse en una atmósfera similar a la de una ofrenda realizada por los grupos indígenas, donde el protagonista era el simbolismo del oro; también es una experiencia que no contempla la mediación directa del guía, por lo tanto, es una herramienta impersonal en el servicio guiado. 
+    p.mb-4(data-aos="fade-right") Esta experiencia le permite al usuario sumergirse en una atmósfera similar a la de una ofrenda realizada por los grupos indígenas, donde el protagonista era el simbolismo del oro; también es una experiencia que no contempla la mediación directa del guía, por lo tanto, es una herramienta impersonal en el servicio guiado. 
 
     .row.align-items-center.mb-4
-      .col-lg-8
+      .col-lg-8(data-aos="fade-right")
         p.mb-2 Para el turista, son importantes las herramientas personales que pueda utilizar el guía para la interpretación y comprensión del espacio o la situación, es decir, cómo, a través del relato, el guía permite que el turista pueda saborear, escuchar, oler y tocar los atractivos que se configuran en el espacio que visita y que más adelante generan un recuerdo de su visita. 
         p <b> <FONT COLOR="#FD6300"> Algunas premisas para el diseño y selección de estas herramientas para estimular los sentidos del usuario que el guía debe conocer son: </FONT> </b>
-      .col-lg-4
+      .col-lg-4(data-aos="fade-left")
         figure.mb-4
           img(src='@/assets/curso/tema1/icon3.svg' alt='AvatarTop')
 
@@ -234,14 +234,14 @@
           .bloque-texto-g1__texto.p-4
             p La vista, definida como la función cerebral que transforma la información captada en la retina en imágenes, conectándola con otros sistemas sensoriales como la memoria, abre una ventana al guía para aprovecharla e invita a reflexionar sobre como potenciarla, ya que además se estima que el 90% de la información que percibe nuestro cerebro es visual y que existe un amplio abanico de significados que se atribuyen al color, como es el caso de la cultura occidental, por ejemplo, el amarillo y la alegría, el rojo y la pasión, el verde y la naturaleza. (Jiménez-Marín et al., 2019). Lo anterior sustenta por qué un guía debe tener vasto conocimiento de las culturas y sobre todo la del grupo objetivo, pues en el contexto cultural y para evitar enviar mensajes equivocados con el uso del color o de una imagen, se incluye entre otros saberes como parte de la planeación y el discurso. 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-8
+      .col-lg-8(data-aos="fade-right")
         p.mb-4 Como es comprensible, estimular la percepción visual en los turistas es importante, especialmente, el contraste de la luz que le permita la identificación de formas, la diferenciación de colores, volúmenes, situaciones, contenidos, descripciones, entre otros (Izaguirre, 2018). Por lo tanto, aunque es común que, al visitar un mirador o un lugar, la mayoría de la gente no escudriña en el paisaje, no se detiene en la búsqueda de colores, formas, siluetas, tonos, sombras, puntas, espacios, conjuntos, líneas, cortes, planos, es importante comprender o darle un significado con esa observación que, al ser profunda, es contemplativa. Para ello, es importante para el guía llevar a la observación de aquello que rodea el lugar a visitar, la naturaleza, el medio físico, las expresiones culturales y diferentes situaciones que puedan ser observadas.
         p.mb-4 Respecto al uso de imágenes o ilustraciones durante el servicio guiado, el guía debe preguntarse sobre:
-      .col-lg-4.col-md-10
+      .col-lg-4.col-md-10(data-aos="fade-left")
         figure.mb-4
           img(src='@/assets/curso/tema1/vec2.svg' alt='AvatarTop')
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade")
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-amarilla")
         .row(titulo="¿Qué grado de complejidad posee la imagen?")
           .col-lg-1
@@ -271,10 +271,10 @@
               img(src='@/assets/curso/tema1/img9.png', alt='Texto que describa la imagen')
 
     .row.mb-4
-      .col-lg-8
+      .col-lg-8(data-aos="fade-right")
         p.mb-4 Aunque el mapa o plano sea de calidad y diseñado por expertos, incluso si es digital, es labor del guía colocar convenciones, signos e información necesaria para que el usuario pueda comprender su ubicación y las características del destino.
         p.mb-4 Es ideal para el visitante observar las transformaciones en la naturaleza o vivir las expresiones culturales; en ocasiones, por la temporada del año o para evitar un impacto negativo, el guía puede valerse de imágenes o videos representativos que le permitan al usuario acercarse un poco más a la explicación que está dando el guía.
-      .col-lg-4
+      .col-lg-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/vec3.svg', alt='Texto que describa la imagen')
 
@@ -288,7 +288,7 @@
             p El uso de un material para el estímulo visual debe permitir la apreciación clara de formas, colores, volúmenes, situaciones, contenidos, descripciones, entre otros; por ello, es fundamental un material visual con una calidad óptima en la resolución; se debe evitar usar imágenes pixeladas o manchadas, pues pueden crear una imagen de poco profesionalismo. Se aconseja usar fuentes públicas de imágenes históricas, como la Biblioteca Nacional de Colombia y los archivos de su región o departamento. 
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-8
+      .col-lg-8(data-aos="fade-right")
         .cajon.color-primario(style='background-color: #FFE49D').p-4.mb-4
           .row.align-items-center
             .col-lg-12
@@ -301,21 +301,21 @@
                   img(src='@/assets/curso/tema1/vec4.svg', alt='Texto que describa la imagen')
           .col-lg-10.col-md-10.col-9
             p.mb-4 En las actividades que el guía realiza, una de ellas es el <b> <FONT COLOR="#FD6300"> desarrollo del sentido del gusto, donde previamente tanto la vista como el tacto analicen la forma y, mediante el olfato, se logren reconocer los elementos que se presentan en los alimentos.  </FONT> </b> También se puede incorporar el sonido que se da en dichos alimentos al ser masticados. Para que esto pueda llevarse a cabo se hace necesario hacer un ejercicio previo con todos los sentidos.
-      .col-lg-4.col-md-6.col-8
+      .col-lg-4.col-md-6.col-8(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema1/3.jpg', alt='Texto que describa la imagen')
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4.col-md-6.col-8
+      .col-lg-4.col-md-6.col-8(data-aos="fade-right")
         figure.mb-4
           img(src='@/assets/curso/tema1/4.jpg', alt='Texto que describa la imagen')
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p.mb-4 Se calcula que las personas recuerdan aproximadamente el 15% de lo que prueban, por ello, es uno de los estímulos más poderosos para mostrar la gastronomía de un lugar. No obstante, la relación entre algunos sabores y sensaciones determinadas suele ser también materia de conocimiento popular, como la unión directa entre el chocolate y el placer. Estas relaciones conocidas pueden ser usadas en otro tipo de productos, por ejemplo: explicar la compleja organización militar y solar de las abejas puede ser monótona, pero si inicia con una degustación de los distintos tipos de miel según las flores o las características del contexto de la colmena, se convierte en comentarios simpáticos acerca del arduo trabajo de las otras para el disfrute de nuestro paladar. El guía habrá logrado un momento gratificante, en que la audiencia reconocerá que solo un enjambre de abejas bien organizado es capaz de producir tan agradable manjar (Gallego, 2000).
         .cajon.color-secundario(style='background-color: #B7CEAC').p-5
           p.mb-0 Para el uso de herramientas de estimulación al gusto, debe asegurarse de contar con las condiciones sanitarias ideales para la degustación. Se recomienda que el guía de turismo tenga conocimiento de BPM o que se asesore de un experto o la realice en un sitio especializado, para garantizar el bienestar del usuario.
-    p.mb-4 De la siguiente manera, se comparte cómo los sentidos se logran involucrar en esas acciones que se presentan entre el guía y el turista:
+    p.mb-4(data-aos="fade-right") De la siguiente manera, se comparte cómo los sentidos se logran involucrar en esas acciones que se presentan entre el guía y el turista:
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade")
       TabsB.color-primario
         .py-5.py-md-5(titulo="El olfato" :icono="require('@/assets/curso/tema1/olfato.svg')")
           .row.justify-content-center
@@ -355,7 +355,7 @@
               .cajon.color-primario(style='background-color: #FFDF88').p-4
                 p.mb-4 Cabe resaltar que los diferentes estilos de música pueden influir en los niveles de presión arterial, aumentándola o disminuyéndola, al igual que en los niveles de energía y en el proceso de secreción hormonal. La música clásica provoca estados de ánimos positivos, la música con pocas alteraciones de ritmo y tono genera estados de calma y placer, y la música con altas alteraciones de ritmo, tono y volumen provoca sensaciones de rabia o tristeza. (Jiménez-Marín et al., 2019). Sin embargo, es preciso aclarar que la experiencia musical está influenciada por la personalidad del oyente y también se debe adecuar a la situación. 
                 p.mb-0 Por otro lado, en las actividades de observación se suele usar playback para facilitar la observación de determinas especies; evítelo en lo posible, a menos que usted tenga formación especializada. Al igual que lo humanos, la fauna se altera gravemente con los estímulos sonoros.
-    .row.align-items-center.mb-4
+    .row.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-1.col-md-2.col-3
         figure
           img(src='@/assets/curso/tema1/vec5.svg', alt='Texto que describa la imagen')
@@ -375,9 +375,9 @@
           )
           .bloque-texto-g1__texto.p-4
             p Anteriormente, se explicó la importancia de la planeación en el turismo para generar experiencias a través de herramientas de interpretación y de la conexión del mensaje con estímulos sensoriales y la selección de herramienta adecuadas que el guía hace según la situación y que además va acompañada de credibilidad y sin descuidar ningún detalle, como, por ejemplo, el lenguaje no corporal, el cual es relevante para la demostración del sentido del servicio. El sistema nervioso humano está construido de tal manera que el impacto visual sobre el espectador de pequeños movimientos de los músculos es mayor que el impacto kinestésico sobre el sujeto, dicho de otra manera, un minúsculo movimiento en la cara puede pasar desapercibido por el guía que está liderando, pero ser totalmente obvio para sus usuarios. (Rey, 2010)
-    p.mb-4 Vilches y Sarmiento (2016) enuncian tres competencias que el guía debe manejar como comunicador eficiente: 
+    p.mb-4(data-aos="fade-right") Vilches y Sarmiento (2016) enuncian tres competencias que el guía debe manejar como comunicador eficiente: 
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade")
       .col-lg-12.order-2.order-lg-1
         TabsA.color-acento-contenido.mb-5        
           .tarjeta.clr-verde.p-5(titulo="1.ª La competencia lingüística")
@@ -404,7 +404,7 @@
                 img(src='@/assets/curso/tema1/muñ3.png', alt='Texto que describa la imagen')
 
     .bg_grad-02
-      .row.mb-5
+      .row.mb-5(data-aos="fade")
         .col-lg-3.col-md-4.col-7
           .row 
             .col-8
@@ -412,15 +412,15 @@
                 h3.mb-0.text-center Proxemia 
       
       .row.mb-4
-        .col-lg-8
+        .col-lg-8(data-aos="fade-right")
           p.mb-4  La distancia física es una necesidad psicológica necesaria para las relaciones humanas, especialmente en el ámbito de la guianza turística, donde la relación guía-turista se condiciona por el grado de familiaridad, la circunstancias, el conocimiento del lugar, las dimensiones de este, la iluminación, los colores, el ruido, posible peligro, tiempo, ansiedad, estrés o angustia, entre otros.<b> <FONT COLOR="#FD6300"> Por consiguiente, el guía está llamado a cuidar y ser respetuoso, circulando con cuidado para no invadir el espacio personal ajeno de los turistas, peatones o comunidad receptora. </FONT> </b> Una buena técnica recomendada en un recorrido peatonal es caminar de forma circular y conducir el grupo por su derecha, preferiblemente, evitando obligar a las personas que no están participando del recorrido a desviarse de su camino o a abandonar el espacio que están ocupando para darle paso al guía y su grupo; hacerlo de otra manera se puede malentender como narcisismo u orgullo desproporcionado (Puente, 2019). 
-        .col-lg-4
+        .col-lg-4(data-aos="fade-left")
           figure
             img(src='@/assets/curso/tema1/img10.png', alt='Texto que describa la imagen')
-      p.mb-4 La percepción de la proxemia o espacio social personal para salvaguardar el espacio en un atractivo turístico, transporte o restaurante depende de la cultura; es así como en Europa, si en el bus hay pocas personas, el sujeto procura sentarse dejando una distancia prudencial; por el contrario, en Japón, es fácil que la persona que llegue, se siente al lado de la otra, aunque el vehículo esté practicante vacío (Puente, 2019). Por ello, la proximidad se analiza desde dos enfoques: la proximidad física en la interacción y el contacto personal. Esta forma de comunicación, como ya se mencionó, depende de comportamientos culturales, pero también influye la situación y la personalidad, y se manifiesta en acciones como: 
+      p.mb-4(data-aos="fade-right") La percepción de la proxemia o espacio social personal para salvaguardar el espacio en un atractivo turístico, transporte o restaurante depende de la cultura; es así como en Europa, si en el bus hay pocas personas, el sujeto procura sentarse dejando una distancia prudencial; por el contrario, en Japón, es fácil que la persona que llegue, se siente al lado de la otra, aunque el vehículo esté practicante vacío (Puente, 2019). Por ello, la proximidad se analiza desde dos enfoques: la proximidad física en la interacción y el contacto personal. Esta forma de comunicación, como ya se mencionó, depende de comportamientos culturales, pero también influye la situación y la personalidad, y se manifiesta en acciones como: 
 
     .row.justify-content-center.mb-2
-      .col-lg-4.col-md-8.mb-4
+      .col-lg-4.col-md-8.mb-4(data-aos="fade-down")
         .tarjeta-avatar
           img(src='@/assets/curso/tema1/avatar3.svg' alt='AvatarTop')
           .tarjeta.colorclaro
@@ -428,7 +428,7 @@
               h4.text-center Apretón de mano
               p.text-center Además de saludar o despedirse, también es la forma en la que se consolida un acuerdo; por ello, un apretón sin fuerza se asocia con un carácter débil o con poca sinceridad o reticencia a la interacción. Se prefiere un apretón no excesivamente fuerte pero sí firme, cariñoso y cordial.
 
-      .col-lg-4.col-md-8.mb-4
+      .col-lg-4.col-md-8.mb-4(data-aos="fade-down")
         .tarjeta-avatar
           img(src='@/assets/curso/tema1/avatar4.svg' alt='AvatarTop')
           .tarjeta.colorclaroama
@@ -436,7 +436,7 @@
               h4.text-center Contactos personales
               p.text-center Dar una palmada en la espalda es un gesto de aliento y apoyo, pasar un brazo por encima de los hombros de otras personas, como un gesto cordial o protector, es una forma de indicarle que puede contar con uno.
 
-      .col-lg-4.col-md-8.mb-4
+      .col-lg-4.col-md-8.mb-4(data-aos="fade-down")
         .tarjeta-avatar
           img(src='@/assets/curso/tema1/avatar5.svg' alt='AvatarTop')
           .tarjeta.colorclaro
@@ -445,9 +445,9 @@
               p.mb-0.text-center Cuando es roto por otra persona, genera incomodidad, sensación de amenza o tension, a menos que una situación lo justifique. 
               p.text-center La postura corporal constituye una barrera territorial para impedir las violaciones de estos espacios. 
     figcaption.text-center.mb-4 Nota. Tomado de Vilches y Sarmiento (2016).
-    p.mb-4 Continuando con la comunicación proxémica, otro aspecto de estudio para el guía es la posición con respecto a su público, relacionado con la técnica de desplazamientos y movimiento del guía en diferentes escenarios y situaciones. Autores como Puente (2019) analizan el tema y clasifican la distancia así:
+    p.mb-4(data-aos="fade-right") Continuando con la comunicación proxémica, otro aspecto de estudio para el guía es la posición con respecto a su público, relacionado con la técnica de desplazamientos y movimiento del guía en diferentes escenarios y situaciones. Autores como Puente (2019) analizan el tema y clasifican la distancia así:
 
-    .row.justify-content-center.mb-2
+    .row.justify-content-center.mb-2(data-aos="fade-down")
       .col-lg-12.order-2.order-lg-1
         TabsA.color-acento-contenido.mb-5        
           .tarjeta.clr-verde.p-5(titulo="Casual-personal")
@@ -465,50 +465,50 @@
                 p 120 a 360 cm, usada para comunicarse con un grupo pequeño, de máximo 20 personas. La distancia de 3 metros en adelante es para comunicarse en espacio tipo auditorio o para manejo de grupo grandes (las cuestiones públicas no personales van a más de 360 cm).
               .col-lg-6
                 img(src='@/assets/curso/tema1/img-2.png', alt='Texto que describa la imagen')
-    p.mb-4 Culturalmente, se mencionan investigaciones con generalidades como que se aprecia mayor cercanía en el contacto físico por parte de árabes, latinoamericanos y europeos del sur y mayor distancia en los asiáticos, europeos del norte y norteamericanos. Por otro lado, es común en hombres hablar con una mujer a menor distancia, asimismo, la distancia es corta entre personas contemporáneas, mientras con personas mayores se amplía la distancia como forma de manifestar respeto.
+    p.mb-4(data-aos="fade-right") Culturalmente, se mencionan investigaciones con generalidades como que se aprecia mayor cercanía en el contacto físico por parte de árabes, latinoamericanos y europeos del sur y mayor distancia en los asiáticos, europeos del norte y norteamericanos. Por otro lado, es común en hombres hablar con una mujer a menor distancia, asimismo, la distancia es corta entre personas contemporáneas, mientras con personas mayores se amplía la distancia como forma de manifestar respeto.
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4.col-md-6.col-8
+      .col-lg-4.col-md-6.col-8(data-aos="fade-right")
         figure.mb-4
           img(src='@/assets/curso/tema1/8.jpg', alt='Texto que describa la imagen')
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         .cajon.color-primario(style='background-color: #FFDF88').p-4.mb-4   
           p.mb-0 El entrenamiento del guía lo hace más consciente del manejo del espacio y se adopta del ejercicio teatral que le permite afinar esta forma de comunicación. Al igual que un espectáculo teatral, una actividad guiada requiere de una exactitud en los textos, por ello, la necesidad del guion, la precisión en las entradas y salidas en cada parada o acción interpretativa, la claridad en los movimientos, además de otros elementos, como la escenografía, que, para el caso de los espacios, son los paisajes y los atractivos en los cuales se debe prestar atención a la luminosidad, sonidos, entre otros. (Ministerio de Educación de Colombia, 2012)
         p.mb-0 La práctica del servicio guiado o la repetición de paradas y diálogos no es lo único que puede conducir a un exitoso servicio. Además, se debe ejercitar la memoria para el buen desarrollo de la guianza y también estar preparado para enfrentar cualquier situación desfavorable que pudiese presentarse o suceder una vez iniciada la labor. Lo anterior debe estar acompañado del aprestamiento del cuerpo y la mente para el servicio, pues la exigencia física de un recorrido sugiere tener buen acondicionamiento físico y resistencia, entre otras cualidades; también incluir dentro de las actividades pausas activas, con estiramientos, trotando, cerrando los ojos, entre otros, lo cual depende de la exigencia física de la actividad.
 
-    .titulo-sexto.color-acento-contenido.mb-3
+    .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade")
       h5 Figura 5
       span Ejemplo de secuencia para estiramiento. Fortalecimiento
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade")
       .col-lg-8
         figure
           img(src='@/assets/curso/tema1/fig5.svg', alt='Texto que describa la imagen')
     
     .bg_grad-04
-      p.mb-4 La ubicación del guía frente a los usuarios y los atractivos también debe responder a una conciencia del espacio; para desarrollarla, es aconsejable adoptar técnicas corporales que aporta el teatro, como: usar una alfombra y dividirla en nueve partes iguales, ojalá cada una señalarla con un color diferente y, a partir de ello, imaginar que esta alfombra es el escenario; según la ubicación en ella, se estará más cerca o más lejos del público, de tal manera que los gestos, movimientos e incluso el tono de voz van a cambiar dependiendo de dónde se encuentre ubicado. 
+      p.mb-4(data-aos="fade-right") La ubicación del guía frente a los usuarios y los atractivos también debe responder a una conciencia del espacio; para desarrollarla, es aconsejable adoptar técnicas corporales que aporta el teatro, como: usar una alfombra y dividirla en nueve partes iguales, ojalá cada una señalarla con un color diferente y, a partir de ello, imaginar que esta alfombra es el escenario; según la ubicación en ella, se estará más cerca o más lejos del público, de tal manera que los gestos, movimientos e incluso el tono de voz van a cambiar dependiendo de dónde se encuentre ubicado. 
 
-      .titulo-sexto.color-acento-contenido.mb-5
+      .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade")
         h5 Figura 6
         span Alfombra para la práctica de desplazamiento durante la guianza
 
-      .row.justify-content-center.mb-2
+      .row.justify-content-center.mb-2(data-aos="fade")
         .col-lg-12
           p.text-center <b>Arrioba  lejos del público</b>
 
-      .row.justify-content-center.mb-4
+      .row.justify-content-center.mb-4(data-aos="fade")
         .col-lg-6
           img(src='@/assets/curso/tema1/fig6.svg', alt='Texto que describa la imagen')
 
-      .row.justify-content-center.mb-2
+      .row.justify-content-center.mb-2(data-aos="fade")
         .col-lg-12
           p.text-center <b>Abajo cerca del público</b> 
 
-      .row.justify-content-center.mb-4
+      .row.justify-content-center.mb-4(data-aos="fade")
         .col-lg-6
           figcaption.text-center.mb-4 Nota. Ministerio de Educación de Colombia (2012).
 
-    .row.justify-content-center.mb-4  
+    .row.justify-content-center.mb-4(data-aos="fade")
       .col-lg-12
         .cajon.color-secundario(style='background-color: #CDDFC8').py-2.px-4
           .row.justify-content-center.align-items-center
@@ -519,10 +519,10 @@
               p.mb-0 Con la alfombra, el guía puede realizar ejercicios que le permitan analizar movimientos durante el servicio, por ejemplo: ¿Dónde debe ubicarse para que el público lo observe con mayor claridad y tenga en cuenta no cubrir o tapar con su cuerpo lo que está presentando? Cuando intervienen dos personas (guía e interprete), ¿dónde se ubica cada uno? Realizar pruebas para ubicarse en la parte de atrás, rotar en los espacios, solo en la derecha, solo en la parte de adelante. Descubrir las ventajas y desventajas de cada ubicación.
 
     .row.justify-content-center.mb-4 
-      .col-lg-4.col-md-8.col-10
+      .col-lg-4.col-md-8.col-10(data-aos="fade-right")
         figure.mb-4
           img(src='@/assets/curso/tema1/9.jpg', alt='Texto que describa la imagen')
-      .col-lg-8
+      .col-lg-8(data-aos="fade-left")
         p.mb-4 Las posiciones del guía con respecto al público también son importantes para equilibrar el movimiento en el lugar. Generalmente, estas posiciones se parecen al avance de un minutero de un reloj, que gira a la derecha y tiene como posición inicial estar frente al público (en el reloj, el minutero indicaría las 12). Según esto, el guía puede estar en el escenario, es decir, el lugar del recorrido, en estas posiciones: 
         ol.lista-ol--cuadro
           li 
@@ -558,15 +558,15 @@
               span 8
             | Un cuarto izquierdo: es la posición opuesta a un cuarto derecho (Ministerio de Educación de Colombia, 2012).
 
-    .row.mb-5
+    .row.mb-5(data-aos="fade")
       .col-lg-3.col-md-5.col-7
         .row 
           .col-10
             .tarjeta.color-primario.p-2
               h3.mb-0.text-center Kinestésica
-    p.mb-4 Hace referencia al movimiento del cuerpo, está directamente relacionada con los gestos, los movimientos corporales (pies, manos, cabeza y piernas), las expresiones faciales, la mirada y la postura. Dentro de este campo, Rey (2010) distingue varias categorías:
+    p.mb-4(data-aos="fade-right") Hace referencia al movimiento del cuerpo, está directamente relacionada con los gestos, los movimientos corporales (pies, manos, cabeza y piernas), las expresiones faciales, la mirada y la postura. Dentro de este campo, Rey (2010) distingue varias categorías:
 
-    .row.mb-4
+    .row.mb-4(data-aos="fade")
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-amarilla")
         .row(titulo="Los emblemas")
           .col-lg-1
@@ -595,16 +595,16 @@
             figure
               img(src='@/assets/curso/tema1/img13.png', alt='Texto que describa la imagen')
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-8
+      .col-lg-8(data-aos="fade-up-right")
         .cajon.color-acento-botones(style='background-color: #E4F0FC').p-4.mb-4
           p.mb-0 Por otro lado, en el lenguaje no verbal, aparte de las palabras, se utilizan los signos no verbales, que son movimientos de las diversas partes del cuerpo que apoyan y mejoran la expresión oral, captando la atención del receptor; por ejemplo, los movimientos tienen que ser naturales, adecuados a lo que se está diciendo, el movimiento excesivo de las manos o cualquier otra parte del cuerpo, hace que la atención se centre en ellos y no llegue el mensaje oral. Se debe evitar permanecer con los brazos cruzados, pues se trata de una actitud poco receptiva; también evitar emitir guiños u otros signos de conflictividad, evitar movimientos estereotipados, rascarse la cabeza, aplaudir, dar palmadas, o cualquier otro movimiento llamativo; tampoco apretones de manos demasiado efusivos o "sin vida". 
         p.mb-4 Este campo de la comunicación se podría resumir en “una imagen vale más que mil palabras”. Como lo describen Vilches y Sarmiento (2016), nuestros gestos, movimientos, nuestra ropa e incluso nuestro olor corporal también forman parte de los mensajes cuando nos comunicamos con los demás. Asimismo, cada parte del cuerpo evidencia mensajes y comunicación.<b> <FONT COLOR="#FD6300"> Algunos ejemplos: </FONT> </b> 
 
-      .col-lg-4.col-md-8.col-10
+      .col-lg-4.col-md-8.col-10(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema1/img14.png', alt='Texto que describa la imagen')
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade")
       .col-lg-4.col-md-7.col-10.mb-4
         .tarjeta.tarjeta-flip.coloroscuroverd(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
@@ -634,20 +634,20 @@
               h4.text-center Aprenda a sentarse
               p.text-center Sentarse al borde de la silla indica afán y que desea irse pronto. Cambiar constantemente de posición o moverse incesantemente expresa desde aburrimiento con el interlocutor hasta molestia o nervios.
               p.text-center Busque sentarse con el peso distribuido, en una posición cómoda, que le permita respirar bien, pausadamente, para mejorar el manejo de la voz.
-    .row.mb-4
+    .row.mb-4(data-aos="fade")
       .col-lg-2.col-md-4.col-8
         .row 
           .col-12
             .tarjeta.color-primario.p-2
               h3.mb-0.text-center Paralingüística
 
-    p.mb-4 La paralingüística estudia el comportamiento no verbal expresado en la voz. Específicamente, variaciones no lingüísticas como el ritmo, el tono y el volumen de la voz, también se incluyen las segregaciones vocales del tipo: "hum", "ah", "uh", las pausas o los errores al hablar. Es decir, se ocupa de la forma, del cómo se dice. Rey (2010) distinguió varios componentes, tales como:
+    p.mb-4(data-aos="fade-right") La paralingüística estudia el comportamiento no verbal expresado en la voz. Específicamente, variaciones no lingüísticas como el ritmo, el tono y el volumen de la voz, también se incluyen las segregaciones vocales del tipo: "hum", "ah", "uh", las pausas o los errores al hablar. Es decir, se ocupa de la forma, del cómo se dice. Rey (2010) distinguió varios componentes, tales como:
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-5
+      .col-lg-5(data-aos="fade-right")
         figure.mb-4
           img(src='@/assets/curso/tema1/vec6.svg', alt='Texto que describa la imagen')    
-      .col-lg-7
+      .col-lg-7(data-aos="fade-left")
         ul.lista-ul--color
           li
             i.fas.fa-paper-plane 
