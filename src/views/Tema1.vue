@@ -33,6 +33,7 @@
                   i.fas.fa-quote-right
             .col-lg-12.mb-4
               p Esta planeación de la experiencia va enlazada con la generación de mensajes que sean percibidos por los turistas a través de los sentidos y que de esta manera activen el sistema neuronal del participante y se generen las deseadas emociones. 
+              .lineanaranja
             .col-lg-12.mb-4
               .bloque-texto-b.color-primario.p-4
                 .bloque-texto-b__texto
@@ -66,7 +67,7 @@
           .bloque-texto-b.color-primario.p-4.mb-4
             .bloque-texto-b__texto
               i.fas.fa-quote-left
-              h5.mb-0 El servicio turístico enfocado en la experiencia debe estimular todos los sentidos del turista, convirtiendo los espacios visitados en entornos de aprendizaje multisensoriales para incrementar las capacidades de aprendizaje de los turistas, En efecto, cuando en un ambiente se combina un estímulo del tacto con uno visual, el aprendizaje mejora en un treinta por ciento, lo cual es calificado por los turistas como experiencias innovadoras y placenteras, gracias a la liberación de dopamina que interviene en la formación de la memoria. Por lo tanto, es de resaltar que los turistas aprenden más de las palabras y de las imágenes presentadas simultáneamente a través de una narración animada que de un gran volumen de información suministrada de manera plana por el guía o un material impreso lleno de datos sobre el destino. (Izaguirre, 2018).
+              h4.mb-0 El servicio turístico enfocado en la experiencia debe estimular todos los sentidos del turista, convirtiendo los espacios visitados en entornos de aprendizaje multisensoriales para incrementar las capacidades de aprendizaje de los turistas, En efecto, cuando en un ambiente se combina un estímulo del tacto con uno visual, el aprendizaje mejora en un treinta por ciento, lo cual es calificado por los turistas como experiencias innovadoras y placenteras, gracias a la liberación de dopamina que interviene en la formación de la memoria. Por lo tanto, es de resaltar que los turistas aprenden más de las palabras y de las imágenes presentadas simultáneamente a través de una narración animada que de un gran volumen de información suministrada de manera plana por el guía o un material impreso lleno de datos sobre el destino. (Izaguirre, 2018).
               i.fas.fa-quote-right
           p.mb-4 De lo anterior, se comprende la importancia de una atención de calidad desde el inicio de la compra hasta la fidelización del cliente a través del servicio de excelencia.
         .col-lg-4.col-md-6.col-8
@@ -91,12 +92,12 @@
         .cajon.color-primario(style='background-color: #FFD667').p-4.mb-4
           p.mb-0 El Internet es la herramienta de democratización del acceso de información sobre los destinos; por otro lado, al tener los usuarios acceso a equipos de mayor calidad a precios accesibles en sus viajes, sumado a las experiencias vividas pospandemia, se configura la mezcla que influye en que el turista use dispositivos como su celular para vivir la experiencia turística (Palomo y Martínez, 2018). 
         p.mb-4 En otras palabras, al portafolio de habilidades del guía se adiciona la necesidad de manejar tecnología que permita estar al tanto de las peticiones del usuario (aplicaciones para dispositivos móviles) e interactuar con el mismo (por correo electrónico, chats), así como, al mismo tiempo, usar las TIC en la mediación interpretativa, para presentar propuestas e, inclusive, materializarlas.
-      .col-lg-4.col-md-6.col-6
+      .col-lg-4.col-md-6.col-8
         figure
           img(src="@/assets/curso/tema1/img4.png", alt="alt")
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4.col-md-6.col-6
+      .col-lg-4.col-md-6.col-8
         figure.mb-4
           img(src="@/assets/curso/tema1/img5.png", alt="alt")
       
@@ -150,7 +151,7 @@
               p.ps-4.mb-0 Una necesidad imperiosa de protección y preservación por parte del turista del atractivo, bien, especie o lugar que está visitando.  Este aspecto permite demostrar la capacidad que tiene el guía de poner en valor el destino mediante la planeación interpretativa (Villagrá, 2021).
           .col-lg-8.col-md-8.col-10
             figure
-              img(src='@/assets/curso/tema1/slyder1.png')
+              img(src='@/assets/curso/tema1/slyder4.png')
     p.mb-4 Para seleccionar la herramienta idónea, se analiza el propósito de la comunicación; se presentan dos tipos: personales e impersonales, explicados a continuación:
 
     .tarjeta--container.row.mb-5
@@ -243,21 +244,27 @@
     .row.mb-4
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-amarilla")
         .row(titulo="¿Qué grado de complejidad posee la imagen?")
-          .col-lg-8.mb-4.mb-md-0
+          .col-lg-1
+            span
+          .col-lg-7.mb-4
             p Entre menos realista sea la imagen o poco se relacione con la cotidianidad del visitante, mayor es el contexto o explicación que debe preparar el guía. 
           .col-lg-4
             figure
               img(src='@/assets/curso/tema1/img7.png', alt='Texto que describa la imagen')
 
         .row(titulo="¿Qué se puede hacer con la imagen? ")
-          .col-lg-8.mb-4.mb-md-0
+          .col-lg-1
+            span
+          .col-lg-7.mb-4
             p Por ejemplo, evocar, al usar una imagen relacionada con una experiencia o un concepto que se supone es conocido por el visitante, ese es el caso de las imágenes antiguas, que facilitan la explicación arquitectónica o las costumbres de otra época. También ayuda a definir en ocasiones un término que no está dentro del léxico del usuario, a pesar de que se esté hablando el mismo idioma, una imagen es más útil para evocar o explicar. Hay otras que son las aplicativas, sirven para facilitar al usuario elementos o fenómenos que no pueden apreciar con sus ojos, ese es el caso en el que se escucha un ave y no es posible apreciarla, una foto puede disminuir la frustración del usuario, es una referencia; también son útiles para explicar los efectos de la contaminación. 
           .col-lg-4
             figure
               img(src='@/assets/curso/tema1/img8.png', alt='Texto que describa la imagen')
 
         .row(titulo="¿Requiere de una frase o texto para el ejercicio de la interpretación? ")
-          .col-lg-8.mb-4.mb-md-0
+          .col-lg-1
+            span
+          .col-lg-7.mb-4
             p En ocasiones, el año, la ubicación o una frase ayudan a la memoria y recordación o a dejar huella en el turista. También es funcional el uso de pizarras digitales o acrílicas que permitan hacer una explicación corta con un gráfico o símbolos, deben diseñarse previamente para garantizar la claridad del mensaje. (Perales y Jiménez, 2002).
           .col-lg-4
             figure
@@ -294,12 +301,12 @@
                   img(src='@/assets/curso/tema1/vec4.svg', alt='Texto que describa la imagen')
           .col-lg-10.col-md-10.col-9
             p.mb-4 En las actividades que el guía realiza, una de ellas es el <b> <FONT COLOR="#FD6300"> desarrollo del sentido del gusto, donde previamente tanto la vista como el tacto analicen la forma y, mediante el olfato, se logren reconocer los elementos que se presentan en los alimentos.  </FONT> </b> También se puede incorporar el sonido que se da en dichos alimentos al ser masticados. Para que esto pueda llevarse a cabo se hace necesario hacer un ejercicio previo con todos los sentidos.
-      .col-lg-4.col-md-6.col-6
+      .col-lg-4.col-md-6.col-8
         figure
           img(src='@/assets/curso/tema1/3.jpg', alt='Texto que describa la imagen')
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4.col-md-6.col-6
+      .col-lg-4.col-md-6.col-8
         figure.mb-4
           img(src='@/assets/curso/tema1/4.jpg', alt='Texto que describa la imagen')
       .col-lg-8
@@ -398,7 +405,7 @@
 
     .bg_grad-02
       .row.mb-5
-        .col-lg-3.col-md-4.col-5
+        .col-lg-3.col-md-4.col-7
           .row 
             .col-8
               .tarjeta.color-primario.p-2
@@ -444,16 +451,24 @@
       .col-lg-12.order-2.order-lg-1
         TabsA.color-acento-contenido.mb-5        
           .tarjeta.clr-verde.p-5(titulo="Casual-personal")
-            h4 Casual-personal
-            p Entre 10 y 40 cm, usada para dar información privada o, según las circunstancias, para comunicar cercanía. 
+            .row.align-items-center
+              .col-lg-6
+                h4 Casual-personal
+                p Entre 10 y 40 cm, usada para dar información privada o, según las circunstancias, para comunicar cercanía. 
+              .col-lg-6
+                img(src='@/assets/curso/tema1/img-1.png', alt='Texto que describa la imagen')
 
           .tarjeta.clr-verde.p-4(titulo="Social-consultiva")
-            h4 Social-consultiva
-            p 120 a 360 cm, usada para comunicarse con un grupo pequeño, de máximo 20 personas. La distancia de 3 metros en adelante es para comunicarse en espacio tipo auditorio o para manejo de grupo grandes (las cuestiones públicas no personales van a más de 360 cm).
+            .row.align-items-center
+              .col-lg-6
+                h4 Social-consultiva
+                p 120 a 360 cm, usada para comunicarse con un grupo pequeño, de máximo 20 personas. La distancia de 3 metros en adelante es para comunicarse en espacio tipo auditorio o para manejo de grupo grandes (las cuestiones públicas no personales van a más de 360 cm).
+              .col-lg-6
+                img(src='@/assets/curso/tema1/img-2.png', alt='Texto que describa la imagen')
     p.mb-4 Culturalmente, se mencionan investigaciones con generalidades como que se aprecia mayor cercanía en el contacto físico por parte de árabes, latinoamericanos y europeos del sur y mayor distancia en los asiáticos, europeos del norte y norteamericanos. Por otro lado, es común en hombres hablar con una mujer a menor distancia, asimismo, la distancia es corta entre personas contemporáneas, mientras con personas mayores se amplía la distancia como forma de manifestar respeto.
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4.col-md-6.col-6
+      .col-lg-4.col-md-6.col-8
         figure.mb-4
           img(src='@/assets/curso/tema1/8.jpg', alt='Texto que describa la imagen')
       .col-lg-8
@@ -498,13 +513,13 @@
         .cajon.color-secundario(style='background-color: #CDDFC8').py-2.px-4
           .row.justify-content-center.align-items-center
             .col-lg-1.col-md-2.col-6
-              figure
+              figure.mb-2
                 img(src='@/assets/curso/tema1/fig7.svg', alt='Texto que describa la imagen')
             .col-lg-11.col-md-10.col-12
               p.mb-0 Con la alfombra, el guía puede realizar ejercicios que le permitan analizar movimientos durante el servicio, por ejemplo: ¿Dónde debe ubicarse para que el público lo observe con mayor claridad y tenga en cuenta no cubrir o tapar con su cuerpo lo que está presentando? Cuando intervienen dos personas (guía e interprete), ¿dónde se ubica cada uno? Realizar pruebas para ubicarse en la parte de atrás, rotar en los espacios, solo en la derecha, solo en la parte de adelante. Descubrir las ventajas y desventajas de cada ubicación.
 
     .row.justify-content-center.mb-4 
-      .col-lg-4.col-md-8.col-8
+      .col-lg-4.col-md-8.col-10
         figure.mb-4
           img(src='@/assets/curso/tema1/9.jpg', alt='Texto que describa la imagen')
       .col-lg-8
@@ -544,7 +559,7 @@
             | Un cuarto izquierdo: es la posición opuesta a un cuarto derecho (Ministerio de Educación de Colombia, 2012).
 
     .row.mb-5
-      .col-lg-2.col-md-5.col-6
+      .col-lg-3.col-md-5.col-7
         .row 
           .col-10
             .tarjeta.color-primario.p-2
@@ -554,21 +569,27 @@
     .row.mb-4
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-amarilla")
         .row(titulo="Los emblemas")
-          .col-lg-8.mb-4.mb-md-0
+          .col-lg-1
+            span
+          .col-lg-7.mb-4
             p Cuando los actos no verbales sustituyen al habla porque tienen una traducción verbal directa que varía dependiendo de la cultura. Son particularmente útiles para explicar una idea de forma rápida o cuando no se encuentran las palabras. Se realizan de forma consciente; por ejemplo, el gesto “ok" con el dedo pulgar alzado, aplaudir como una señal de aprobación, el dedo índice en la sien que comunica una posición reflexiva, o decir adiós simplemente con la mano abierta y moviéndola a ambos lados, son algunos de los que utilizamos más frecuentemente. 
           .col-lg-4
             figure
               img(src='@/assets/curso/tema1/img11.png', alt='Texto que describa la imagen')
 
         .row(titulo="Los ilustradores")
-          .col-lg-8.mb-4.mb-md-0
+          .col-lg-1
+            span
+          .col-lg-7.mb-4
             p Se utilizan para estructurar el discurso, dar énfasis y despertar entusiasmo entre la audiencia. Se usan paralelos al habla y sirven para subrayar una idea o palabra, referirse a un objeto o al ritmo de un acontecimiento. Por ejemplo, el toque pulgar-índice, en el que las yemas se tocan, comunica el afán del orador en expresarse con exactitud, o la palma arriba, "la implorante mano de un mendigo", el orador pide algo a la audiencia, generalmente, que escuche con atención o que esté de acuerdo con lo que dice.
           .col-lg-4
             figure
               img(src='@/assets/curso/tema1/img12.png', alt='Texto que describa la imagen')
 
         .row(titulo="Manipuladores")
-          .col-lg-8.mb-4.mb-md-0
+          .col-lg-1
+            span
+          .col-lg-7.mb-4
             p Se emplean para aliviar la tensión y la angustia en momentos puntuales, aparecen durante la infancia, "como esfuerzos de adaptación para satisfacer necesidades, cumplir acciones, dominar emociones, desarrollar contactos sociales o cumplir una gran cantidad de otras funciones". Algunos ejemplos son: 1) sujetar la quijada, 2) sujetar la barbilla, 3) cogerse el cabello 4) sujetarse la mejilla 5) tocarse los labios, y 6) sujetar las sienes.
           .col-lg-4
             figure
@@ -579,12 +600,12 @@
           p.mb-0 Por otro lado, en el lenguaje no verbal, aparte de las palabras, se utilizan los signos no verbales, que son movimientos de las diversas partes del cuerpo que apoyan y mejoran la expresión oral, captando la atención del receptor; por ejemplo, los movimientos tienen que ser naturales, adecuados a lo que se está diciendo, el movimiento excesivo de las manos o cualquier otra parte del cuerpo, hace que la atención se centre en ellos y no llegue el mensaje oral. Se debe evitar permanecer con los brazos cruzados, pues se trata de una actitud poco receptiva; también evitar emitir guiños u otros signos de conflictividad, evitar movimientos estereotipados, rascarse la cabeza, aplaudir, dar palmadas, o cualquier otro movimiento llamativo; tampoco apretones de manos demasiado efusivos o "sin vida". 
         p.mb-4 Este campo de la comunicación se podría resumir en “una imagen vale más que mil palabras”. Como lo describen Vilches y Sarmiento (2016), nuestros gestos, movimientos, nuestra ropa e incluso nuestro olor corporal también forman parte de los mensajes cuando nos comunicamos con los demás. Asimismo, cada parte del cuerpo evidencia mensajes y comunicación.<b> <FONT COLOR="#FD6300"> Algunos ejemplos: </FONT> </b> 
 
-      .col-lg-4.col-md-8.col-8
+      .col-lg-4.col-md-8.col-10
         figure
           img(src='@/assets/curso/tema1/img14.png', alt='Texto que describa la imagen')
 
     .row.justify-content-center.mb-4
-      .col-sm-6.col-xl-4.col-md-7.col-7.mb-4
+      .col-lg-4.col-md-7.col-10.mb-4
         .tarjeta.tarjeta-flip.coloroscuroverd(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
@@ -595,7 +616,7 @@
               p.text-center Mantenga el contacto ocular sin fijar en exceso la mirada; evite el otro extremo: mirar a todos lados, ventana, techo, suelo, entre otros.  Para evitar cansarse psicológicamente, se puede fijar la mirada en el entrecejo, de esa manera no se incomoda a la otra persona.
 
 
-      .col-sm-6.col-xl-4.col-md-7.col-7.mb-4
+      .col-lg-4.col-md-7.col-10.mb-4
         .tarjeta.tarjeta-flip.coloroscuroverd(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/flip2.png')})`}")
@@ -605,7 +626,7 @@
               p.text-center También sirven para llamar la atención con un toque. Anteponga siempre el respeto y  nunca lo haga innecesariamente.
 
 
-      .col-sm-6.col-xl-4.col-md-7.col-7.mb-4
+      .col-lg-4.col-md-7.col-10.mb-4
         .tarjeta.tarjeta-flip.coloroscuroverd(@mouseover="indicadorTarjetaFlip = false")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/flip3.svg')})`}")
@@ -614,7 +635,7 @@
               p.text-center Sentarse al borde de la silla indica afán y que desea irse pronto. Cambiar constantemente de posición o moverse incesantemente expresa desde aburrimiento con el interlocutor hasta molestia o nervios.
               p.text-center Busque sentarse con el peso distribuido, en una posición cómoda, que le permita respirar bien, pausadamente, para mejorar el manejo de la voz.
     .row.mb-4
-      .col-lg-2.col-md-4.col-5
+      .col-lg-2.col-md-4.col-8
         .row 
           .col-12
             .tarjeta.color-primario.p-2

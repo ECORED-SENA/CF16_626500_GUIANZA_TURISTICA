@@ -135,42 +135,54 @@
     .row.mb-4
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-amarilla")
         .row(titulo="Respiratoria")
-          .col-lg-8.mb-4.mb-md-0
+          .col-lg-1
+            span
+          .col-lg-7.mb-4
             p La respiración diafragmática consiste en tomar aire por la nariz y llevarla directamente al estómago, sin elevar los hombros. Se mantiene el aire por unos segundos en el estómago y se expulsa dejando salir el aire por la boca.
           .col-lg-4
             figure
               img(src='@/assets/curso/tema2/img1.png', alt='Texto que describa la imagen')
 
         .row(titulo="Tensión y distensión")
-          .col-lg-8.mb-4.mb-md-0
+          .col-lg-1
+            span
+          .col-lg-7.mb-4
             p Consiste en tensionar los músculos de la boca, rostro, cuello, tórax y abdomen durante unos segundos y distensionarlos. Esta acción permite que las personas identifiquen sensaciones de dolor en su cuerpo y, al ser percibidas, se generan alertas que le informan a la persona que algo no está funcionando bien y así comenzar a realizar los procesos de regulación a través de la respiración o de la tensión - distensión.
           .col-lg-4
             figure
               img(src='@/assets/curso/tema2/img2.png', alt='Texto que describa la imagen')
 
         .row(titulo="Vocalización")
-          .col-lg-8.mb-4.mb-md-0
+          .col-lg-1
+            span
+          .col-lg-7.mb-4
             p Pronuncie de manera enfática, con tono medio, las siguientes palabras: crisis, fijación, torbellino, rastrojos, trascendente, intercontinental, deleznable, horripilante, gerundio, agrupación, tristeza, tetraedro, crioterapia, potable, transparente, trasatlántico, satisfactorio, condensación, simétrico. También para el estiramiento facial, son ideales los trabalenguas, con movimientos exagerados del rostro. Trabalenguas 1. Un tigre, dos tigres, tres. Tres tristes tigres comían trigo en un trigal. Trabalenguas 2. El gerente diligente llamaba urgente al regente. Y un agente ágilmente vigilaba entre la gente. Trabalenguas 3. Pablito clavó un clavito. ¿Qué clavito clavó Pablito? (Aguilar, 2016).
           .col-lg-4
             figure
               img(src='@/assets/curso/tema2/img3.png', alt='Texto que describa la imagen')
 
         .row(titulo="Calentamiento del aparato fonador")
-          .col-lg-8.mb-4.mb-md-0
+          .col-lg-1
+            span
+          .col-lg-7.mb-4
             p Se pueden realizar estiramientos de la lengua fuera de la boca y en todas direcciones. Después, se estiran los labios hacia el frente, atrás y a los lados; luego, se estiran las mejillas, soplando con la boca cerrada. Una vez se estiran esos músculos faciales y de la boca, se hacen ejercicios de vibración de las cuerdas vocales con las vocales (a, e, i, o, u), de manera prolongada y jugando con el incremento en el sonido (bajo - medio - alto).
           .col-lg-4
             figure
               img(src='@/assets/curso/tema2/img4.png', alt='Texto que describa la imagen')
 
         .row(titulo="Control de la ansiedad")
-          .col-lg-8.mb-4.mb-md-0
+          .col-lg-1
+            span
+          .col-lg-7.mb-4
             p Realice los ejercicios de respiración diafragmática, de tensión y distensión, y de calentamiento del aparato fonador, antes de comenzar a hablar en público. Por otra parte, neutralice sus ideas, los supuestos o prejuicios que tenga de las personas a quienes va a abordar durante el momento en que se va a expresar. 
           .col-lg-4
             figure
               img(src='@/assets/curso/tema2/img5.png', alt='Texto que describa la imagen')
 
         .row(titulo="Prepárese para la intervención que va a realizar")
-          .col-lg-8.mb-4.mb-md-0
+          .col-lg-1
+            span
+          .col-lg-7.mb-4
             p Estudiar el tema a desarrollar con el público es un factor fundamental; es importante que usted planee la temática con antelación, esto le va permitir controlar sus estados de ansiedad. 
           .col-lg-4
             figure
