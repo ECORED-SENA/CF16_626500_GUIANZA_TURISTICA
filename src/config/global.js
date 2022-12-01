@@ -313,14 +313,14 @@ export default {
       referencia:
         'Traverso, J. (1996). Comunicación interpretativa: variable clave en el marketing mix de las empresas de turismo rural. Estudios Turísticos, 130, p. 37-50.',
       tipo: 'Documento',
-      link: '/downloads/Comunicacioninterpretativa.pdf',
+      link: '/downloads/comunicacioninterpretativa.pdf',
     },
     {
       tema: 'Herramientas de comunicación interpretativa',
       referencia:
         'Asociación para la Interpretación del Patrimonio [AIP]. (2000). Boletín de Interpretación Número 3. ',
       tipo: 'Artículo ',
-      link: '/downloads/Boletininterpretacion.pdf',
+      link: '/downloads/boletininterpretacion.pdf',
     },
     {
       tema: 'Comunicación no verbal en el guionaje',
