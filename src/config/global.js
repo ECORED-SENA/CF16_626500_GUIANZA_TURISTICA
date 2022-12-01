@@ -313,14 +313,14 @@ export default {
       referencia:
         'Traverso, J. (1996). Comunicación interpretativa: variable clave en el marketing mix de las empresas de turismo rural. Estudios Turísticos, 130, p. 37-50.',
       tipo: 'Documento',
-      link: 'anexo',
+      link: '/downloads/Comunicacioninterpretativa.pdf',
     },
     {
       tema: 'Herramientas de comunicación interpretativa',
       referencia:
         'Asociación para la Interpretación del Patrimonio [AIP]. (2000). Boletín de Interpretación Número 3. ',
       tipo: 'Artículo ',
-      link: 'anexo',
+      link: '/downloads/Boletininterpretacion.pdf',
     },
     {
       tema: 'Comunicación no verbal en el guionaje',
@@ -367,39 +367,6 @@ export default {
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
-      {
-        nombre: 'Claudia Patricia Porras Otálora',
-        cargo: 'Instructor',
-        centro:
-          'Regional Distrito Capital - Centro Nacional de Hotelería Turismo y Alimentos',
-      },
-      {
-        nombre: 'Juan Carlos Rubiano Reyes',
-        cargo: 'Instructor',
-        centro:
-          'Regional Distrito Capital - Centro Nacional de Hotelería Turismo y Alimentos',
-      },
-      {
-        nombre: 'Raúl Javier Hernández Salgado',
-        cargo: 'Instructor',
-        centro:
-          'Regional Distrito Capital - Centro Nacional de Hotelería Turismo y Alimentos',
-      },
-      {
-        nombre: 'Leydy Jhuliana Jaramillo Mejía',
-        cargo: 'Diseñadora Instruccional',
-        centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
-      },
-      {
-        nombre: 'Darío González',
-        cargo: 'Corrección de estilo',
-        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
-      },
-      {
-        nombre: 'Andrés Felipe Velandia Espitia',
-        cargo: 'Revisor Metodológico y Pedagógico',
-        centro: 'Regional Distrito Capital – Centro de Diseño y Metrología',
-      },
     ],
     desarrolloProducto: [
       {
@@ -409,13 +376,14 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Leyson Fabian Castaño Perez',
-        cargo: 'Soporte organizacional',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
-      },
-      {
         nombre: 'Fabian Zarate',
         cargo: 'Diseño web',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Daniel Polanco',
+        cargo: 'Validación Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
@@ -426,74 +394,60 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: '',
-        cargo: 'Soporte front-end',
+        nombre: 'Andrea Botello',
+        cargo: 'Validación de Maquetación',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: '',
-        cargo: 'Producción audiovisual',
+        nombre: 'Luis Gabriel Urueta Alvarez',
+        cargo: 'Actividades didácticas',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
+      },
+      {
+        nombre: 'María Camilia Ovalle',
+        cargo: 'Validación Contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: '',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Revisión de guion audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: '',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: '',
+        nombre: 'María Carolina Tamayo López',
         cargo: 'Locución',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Ángela María Maldonado Jaime',
         cargo: 'Ilustración',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Validación Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Oleg Litvin',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: '',
+        nombre: 'Ludwyng Corzo García',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: '',
-        cargo: 'Validación ilustración',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: '',
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
         cargo: 'Validación audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: '',
-        cargo: 'Validación audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Maria camila ovalle ospina',
-        cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
@@ -501,7 +455,7 @@ export default {
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Validación y vinculación en plataforma LMS',
+        cargo: 'Responsable del equipo de Gestión de Repositorio',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
     ],

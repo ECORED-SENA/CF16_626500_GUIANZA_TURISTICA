@@ -29,7 +29,7 @@
               .bloque-texto-b.color-primario.p-4
                 .bloque-texto-b__texto
                   i.fas.fa-quote-left
-                  h4.mb-0 Las racionales contienen: la argumentación, la lógica, la retórica, el método científico y la demostración; las técnicas emocionales van desde la fe, la imaginación, la fascinación o ilusión y el estímulo sensorial (López, (2015).
+                  h4.mb-0 Las racionales contienen: la argumentación, la lógica, la retórica, el método científico y la demostración; las técnicas emocionales van desde la fe, la imaginación, la fascinación o ilusión y el estímulo sensorial (López, 2015).
                   i.fas.fa-quote-right
             .col-lg-12.mb-4
               p Esta planeación de la experiencia va enlazada con la generación de mensajes que sean percibidos por los turistas a través de los sentidos y que de esta manera activen el sistema neuronal del participante y se generen las deseadas emociones. 
@@ -190,7 +190,7 @@
             .col-lg-6.py-2.px-2
               .row.justify-content-center.align-items-center 
                 .col-md-11.col-10
-                  p.mb-0.p-1 Aunque el guía de turismo puede participar en el diseño de los dos tipos de herramientas, es posible hacer uso de elementos que tiene el destino y convertirlos en herramientas impersonales, tales como señalética (tótem, habladores) , los montajes museográficos, expresiones artísticas, entre otros, que por lo general tienen una ubicación fija en el destino o atractivo y pueden ser una herramienta en caso de que el guía tenga un grupo grande de usuarios o el atractivo tenga capacidad limitada. También se puede subdividir el grupo y usar una herramienta impersonal, como un video, una grabación, un show folclórico, entre otros, con una parte de los usuarios, mientras hace uso de herramientas personales con la otra parte del grupo. Las audioguías son otra herramienta que le permite al usuario autonomía cuando quiere avanzar a un ritmo diferente al del grupo o requiere informaciones especializadas; el guía de turismo le puede orientar dónde encontrar audio o información de expertos sobre el tema.
+                  p.mb-0.p-1 Aunque el guía de turismo puede participar en el diseño de los dos tipos de herramientas, es posible hacer uso de elementos que tiene el destino y convertirlos en herramientas impersonales, tales como señalética (tótem, habladores), los montajes museográficos, expresiones artísticas, entre otros, que por lo general tienen una ubicación fija en el destino o atractivo y pueden ser una herramienta en caso de que el guía tenga un grupo grande de usuarios o el atractivo tenga capacidad limitada. También se puede subdividir el grupo y usar una herramienta impersonal, como un video, una grabación, un show folclórico, entre otros, con una parte de los usuarios, mientras hace uso de herramientas personales con la otra parte del grupo. Las audioguías son otra herramienta que le permite al usuario autonomía cuando quiere avanzar a un ritmo diferente al del grupo o requiere informaciones especializadas; el guía de turismo le puede orientar dónde encontrar audio o información de expertos sobre el tema.
             .col-lg-6
               figure
                 img(src='@/assets/curso/tema1/img6.png' alt='AvatarTop')
@@ -243,28 +243,22 @@
 
     .row.mb-4(data-aos="fade")
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-amarilla")
-        .row(titulo="¿Qué grado de complejidad posee la imagen?")
-          .col-lg-1
-            span
-          .col-lg-7.mb-4
+        .row.justify-content-end.px-5(titulo="¿Qué grado de complejidad posee la imagen?")
+          .col-lg-8.mb-4
             p Entre menos realista sea la imagen o poco se relacione con la cotidianidad del visitante, mayor es el contexto o explicación que debe preparar el guía. 
           .col-lg-4
             figure
               img(src='@/assets/curso/tema1/img7.png', alt='Texto que describa la imagen')
 
-        .row(titulo="¿Qué se puede hacer con la imagen? ")
-          .col-lg-1
-            span
-          .col-lg-7.mb-4
+        .row.justify-content-end.px-5(titulo="¿Qué se puede hacer con la imagen? ")
+          .col-lg-8.mb-4
             p Por ejemplo, evocar, al usar una imagen relacionada con una experiencia o un concepto que se supone es conocido por el visitante, ese es el caso de las imágenes antiguas, que facilitan la explicación arquitectónica o las costumbres de otra época. También ayuda a definir en ocasiones un término que no está dentro del léxico del usuario, a pesar de que se esté hablando el mismo idioma, una imagen es más útil para evocar o explicar. Hay otras que son las aplicativas, sirven para facilitar al usuario elementos o fenómenos que no pueden apreciar con sus ojos, ese es el caso en el que se escucha un ave y no es posible apreciarla, una foto puede disminuir la frustración del usuario, es una referencia; también son útiles para explicar los efectos de la contaminación. 
           .col-lg-4
             figure
               img(src='@/assets/curso/tema1/img8.png', alt='Texto que describa la imagen')
 
-        .row(titulo="¿Requiere de una frase o texto para el ejercicio de la interpretación? ")
-          .col-lg-1
-            span
-          .col-lg-7.mb-4
+        .row.justify-content-end.px-5(titulo="¿Requiere de una frase o texto para el ejercicio de la interpretación? ")
+          .col-lg-8.mb-4
             p En ocasiones, el año, la ubicación o una frase ayudan a la memoria y recordación o a dejar huella en el turista. También es funcional el uso de pizarras digitales o acrílicas que permitan hacer una explicación corta con un gráfico o símbolos, deben diseñarse previamente para garantizar la claridad del mensaje. (Perales y Jiménez, 2002).
           .col-lg-4
             figure
@@ -353,8 +347,8 @@
               p.mb-4 Por otro lado, también se puede usar la incomodidad sonora para el aprendizaje. Se genera, por ejemplo, al acercar el turista al oscuro y estridente mundo de los murciélagos, dominado por mitos y supersticiones; es necesaria una narración animada, soportada en imágenes o recursos audiovisuales sobre el sistema de orientación de estos animales, que no tiene nada qué envidiarle a los actuales GPS (Sistemas de Posicionamiento Global); suscitará respeto y curiosidad por la especie, desplazando el rechazo y el miedo hacia ella (Gallego, 2000).
               p.mb-4 En el ámbito cultural, las bibliotecas sonoras, el uso de fragmentos de podcasts o grabaciones de otrora facilitan la evocación y son la herramienta ideal para recorridos históricos y culturales. En Colombia, entidades como el Banco de la República, la Biblioteca Nacional y RTVC Sistema de Medios Públicos son custodios del patrimonio sonoro. 
               .cajon.color-primario(style='background-color: #FFDF88').p-4
-                p.mb-4 Cabe resaltar que los diferentes estilos de música pueden influir en los niveles de presión arterial, aumentándola o disminuyéndola, al igual que en los niveles de energía y en el proceso de secreción hormonal. La música clásica provoca estados de ánimos positivos, la música con pocas alteraciones de ritmo y tono genera estados de calma y placer, y la música con altas alteraciones de ritmo, tono y volumen provoca sensaciones de rabia o tristeza. (Jiménez-Marín et al., 2019). Sin embargo, es preciso aclarar que la experiencia musical está influenciada por la personalidad del oyente y también se debe adecuar a la situación. 
-                p.mb-0 Por otro lado, en las actividades de observación se suele usar playback para facilitar la observación de determinas especies; evítelo en lo posible, a menos que usted tenga formación especializada. Al igual que lo humanos, la fauna se altera gravemente con los estímulos sonoros.
+                p.mb-4 Cabe resaltar que los diferentes estilos de música pueden influir en los niveles de presión arterial, aumentándola o disminuyéndola, al igual que en los niveles de energía y en el proceso de secreción hormonal. La música clásica provoca estados de ánimo positivos, la música con pocas alteraciones de ritmo y tono genera estados de calma y placer, y la música con altas alteraciones de ritmo, tono y volumen provoca sensaciones de rabia o tristeza. (Jiménez-Marín et al., 2019). Sin embargo, es preciso aclarar que la experiencia musical está influenciada por la personalidad del oyente y también se debe adecuar a la situación. 
+                p.mb-0 Por otro lado, en las actividades de observación se suele usar playback para facilitar la observación de determinadas especies; evítelo en lo posible, a menos que usted tenga formación especializada. Al igual que los humanos, la fauna se altera gravemente con los estímulos sonoros.
     .row.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-1.col-md-2.col-3
         figure
@@ -442,7 +436,7 @@
           .tarjeta.colorclaro
             .p-4
               h4.text-center Espacio personal
-              p.mb-0.text-center Cuando es roto por otra persona, genera incomodidad, sensación de amenza o tension, a menos que una situación lo justifique. 
+              p.mb-0.text-center Cuando es roto por otra persona, genera incomodidad, sensación de amenaza o tensión, a menos que una situación lo justifique. 
               p.text-center La postura corporal constituye una barrera territorial para impedir las violaciones de estos espacios. 
     figcaption.text-center.mb-4 Nota. Tomado de Vilches y Sarmiento (2016).
     p.mb-4(data-aos="fade-right") Continuando con la comunicación proxémica, otro aspecto de estudio para el guía es la posición con respecto a su público, relacionado con la técnica de desplazamientos y movimiento del guía en diferentes escenarios y situaciones. Autores como Puente (2019) analizan el tema y clasifican la distancia así:
@@ -477,7 +471,7 @@
         p.mb-0 La práctica del servicio guiado o la repetición de paradas y diálogos no es lo único que puede conducir a un exitoso servicio. Además, se debe ejercitar la memoria para el buen desarrollo de la guianza y también estar preparado para enfrentar cualquier situación desfavorable que pudiese presentarse o suceder una vez iniciada la labor. Lo anterior debe estar acompañado del aprestamiento del cuerpo y la mente para el servicio, pues la exigencia física de un recorrido sugiere tener buen acondicionamiento físico y resistencia, entre otras cualidades; también incluir dentro de las actividades pausas activas, con estiramientos, trotando, cerrando los ojos, entre otros, lo cual depende de la exigencia física de la actividad.
 
     .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade")
-      h5 Figura 5
+      h5 Figura 2
       span Ejemplo de secuencia para estiramiento. Fortalecimiento
 
     .row.justify-content-center.mb-4(data-aos="fade")
@@ -489,7 +483,7 @@
       p.mb-4(data-aos="fade-right") La ubicación del guía frente a los usuarios y los atractivos también debe responder a una conciencia del espacio; para desarrollarla, es aconsejable adoptar técnicas corporales que aporta el teatro, como: usar una alfombra y dividirla en nueve partes iguales, ojalá cada una señalarla con un color diferente y, a partir de ello, imaginar que esta alfombra es el escenario; según la ubicación en ella, se estará más cerca o más lejos del público, de tal manera que los gestos, movimientos e incluso el tono de voz van a cambiar dependiendo de dónde se encuentre ubicado. 
 
       .titulo-sexto.color-acento-contenido.mb-5(data-aos="fade")
-        h5 Figura 6
+        h5 Figura 3
         span Alfombra para la práctica de desplazamiento durante la guianza
 
       .row.justify-content-center.mb-2(data-aos="fade")
@@ -568,29 +562,23 @@
 
     .row.mb-4(data-aos="fade")
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta-amarilla")
-        .row(titulo="Los emblemas")
-          .col-lg-1
-            span
-          .col-lg-7.mb-4
+        .row.justify-content-end.px-5(titulo="Los emblemas")
+          .col-lg-8.mb-4
             p Cuando los actos no verbales sustituyen al habla porque tienen una traducción verbal directa que varía dependiendo de la cultura. Son particularmente útiles para explicar una idea de forma rápida o cuando no se encuentran las palabras. Se realizan de forma consciente; por ejemplo, el gesto “ok" con el dedo pulgar alzado, aplaudir como una señal de aprobación, el dedo índice en la sien que comunica una posición reflexiva, o decir adiós simplemente con la mano abierta y moviéndola a ambos lados, son algunos de los que utilizamos más frecuentemente. 
           .col-lg-4
             figure
               img(src='@/assets/curso/tema1/img11.png', alt='Texto que describa la imagen')
 
-        .row(titulo="Los ilustradores")
-          .col-lg-1
-            span
-          .col-lg-7.mb-4
+        .row.justify-content-end.px-5(titulo="Los ilustradores")
+          .col-lg-8.mb-4
             p Se utilizan para estructurar el discurso, dar énfasis y despertar entusiasmo entre la audiencia. Se usan paralelos al habla y sirven para subrayar una idea o palabra, referirse a un objeto o al ritmo de un acontecimiento. Por ejemplo, el toque pulgar-índice, en el que las yemas se tocan, comunica el afán del orador en expresarse con exactitud, o la palma arriba, "la implorante mano de un mendigo", el orador pide algo a la audiencia, generalmente, que escuche con atención o que esté de acuerdo con lo que dice.
           .col-lg-4
             figure
               img(src='@/assets/curso/tema1/img12.png', alt='Texto que describa la imagen')
 
-        .row(titulo="Manipuladores")
-          .col-lg-1
-            span
-          .col-lg-7.mb-4
-            p Se emplean para aliviar la tensión y la angustia en momentos puntuales, aparecen durante la infancia, "como esfuerzos de adaptación para satisfacer necesidades, cumplir acciones, dominar emociones, desarrollar contactos sociales o cumplir una gran cantidad de otras funciones". Algunos ejemplos son: 1) sujetar la quijada, 2) sujetar la barbilla, 3) cogerse el cabello 4) sujetarse la mejilla 5) tocarse los labios, y 6) sujetar las sienes.
+        .row.justify-content-end.px-5(titulo="Manipuladores")
+          .col-lg-8.mb-4
+            p Se emplean para aliviar la tensión y la angustia en momentos puntuales, aparecen durante la infancia, "como esfuerzos de adaptación para satisfacer necesidades, cumplir acciones, dominar emociones, desarrollar contactos sociales o cumplir una gran cantidad de otras funciones". Algunos ejemplos son: 1) sujetar la quijada, 2) sujetar la barbilla, 3) cogerse el cabello, 4) sujetarse la mejilla, 5) tocarse los labios, y 6) sujetar las sienes.
           .col-lg-4
             figure
               img(src='@/assets/curso/tema1/img13.png', alt='Texto que describa la imagen')
@@ -612,7 +600,7 @@
             .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/tema1/flip1.svg')})`}")
             .tarjeta-flip__contenido.coloroscuroverd.p-4.p-xl-4
               h4.text-center Los ojos hablan
-              p.text-center Son un poderosa ayuda en la conversación, incluso pueden expresar lo que se está pensando, sin hablar. Los ojos y la mirada pueden decir tanto porque expresan prácticamente todas las emociones: alegría; tristeza; inquietud; tensión; preocupación; estimación; o respeto.
+              p.text-center Son una poderosa ayuda en la conversación, incluso pueden expresar lo que se está pensando, sin hablar. Los ojos y la mirada pueden decir tanto porque expresan prácticamente todas las emociones: alegría; tristeza; inquietud; tensión; preocupación; estimación; o respeto.
               p.text-center Mantenga el contacto ocular sin fijar en exceso la mirada; evite el otro extremo: mirar a todos lados, ventana, techo, suelo, entre otros.  Para evitar cansarse psicológicamente, se puede fijar la mirada en el entrecejo, de esa manera no se incomoda a la otra persona.
 
 
