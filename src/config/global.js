@@ -305,7 +305,7 @@ export default {
       tema: 'Herramientas de comunicación interpretativa',
       referencia:
         'Villagrá, M. (2021). Sicilia on the road. Conexiones emocionales y motivación en un ejemplo de comunicación interpretativa informal. Círculo de Lingüística Aplicada a la Comunicación, 86.',
-      tipo: 'Documento',
+      tipo: 'Artículo',
       link: 'https://dx.doi.org/10.5209/clac.75502',
     },
     {
@@ -313,14 +313,14 @@ export default {
       referencia:
         'Traverso, J. (1996). Comunicación interpretativa: variable clave en el marketing mix de las empresas de turismo rural. Estudios Turísticos, 130, p. 37-50.',
       tipo: 'Documento',
-      link: '/downloads/comunicacioninterpretativa.pdf',
+      descarga: '/downloads/comunicacioninterpretativa.pdf',
     },
     {
       tema: 'Herramientas de comunicación interpretativa',
       referencia:
         'Asociación para la Interpretación del Patrimonio [AIP]. (2000). Boletín de Interpretación Número 3. ',
-      tipo: 'Artículo ',
-      link: '/downloads/boletininterpretacion.pdf',
+      tipo: 'Documento',
+      descarga: '/downloads/boletininterpretacion.pdf',
     },
     {
       tema: 'Comunicación no verbal en el guionaje',
